@@ -6,8 +6,8 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-28 00:00+0000\n"
-"PO-Revision-Date: 2018-07-28 05:04+0000\n"
-"Last-Translator: Mamadou Diagne <genova@dofbi.com>, 2018\n"
+"PO-Revision-Date: 2018-08-04 00:22+0000\n"
+"Last-Translator: Mamadou Diagne <genova@dofbi.com>\n"
 "Language-Team: KaayCoder (https://github.com/KaayCoder/Scratch-si-wolof) "
 "<info@kaaycoder.tech>\n"
 "MIME-Version: 1.0\n"
@@ -165,7 +165,7 @@ msgid "else"
 msgstr "sinon"
 
 msgid "forever"
-msgstr "répéter indéfiniment"
+msgstr "saa-su-ne"
 
 msgid "glide %n secs to x:%n y:%n"
 msgstr "glisser en %n secondes à x:%n y:%n"
@@ -183,7 +183,7 @@ msgid "go to x:%n y:%n"
 msgstr "aller à x:%n y:%n"
 
 msgid "hide"
-msgstr "cacher"
+msgstr "nëbb"
 
 msgid "hide list %m.list"
 msgstr "cacher la liste %m.list"
@@ -271,10 +271,10 @@ msgid "point towards %m.spriteOrMouse"
 msgstr "s'orienter vers %m.spriteOrMouse"
 
 msgid "repeat %n"
-msgstr "répéter %n fois"
+msgstr "defal %n yoon"
 
 msgid "repeat until %b"
-msgstr "répéter jusqu’à %b"
+msgstr "defal ba %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
 msgstr "remplacer l'élément %d.listItem de la liste %m.list par %s"
@@ -346,7 +346,7 @@ msgid "set y to %n"
 msgstr "donner la valeur %n à y"
 
 msgid "show"
-msgstr "montrer"
+msgstr "woner"
 
 msgid "show list %m.list"
 msgstr "montrer la liste %m.list"
@@ -381,10 +381,10 @@ msgid "tempo"
 msgstr "tempo"
 
 msgid "think %s"
-msgstr "penser à %s"
+msgstr "xalaatal %s"
 
 msgid "think %s for %n secs"
-msgstr "penser à %s pendant %n secondes"
+msgstr "xalaatal %s pendant %n secondes"
 
 msgid "tilt"
 msgstr "inclinaison"
@@ -426,16 +426,16 @@ msgid "volume"
 msgstr "volume"
 
 msgid "wait %n secs"
-msgstr "attendre %n secondes"
+msgstr "xaaral %n secondes"
 
 msgid "wait until %b"
-msgstr "attendre jusqu’à %b"
+msgstr "xaaral ba %b"
 
 msgid "when %m.booleanSensor"
 msgstr "quand %m.booleanSensor"
 
 msgid "when %m.key key pressed"
-msgstr "quand %m.key est pressé"
+msgstr "suñ bëse %m.key"
 
 msgid "when %m.sensor %m.lessMore %n"
 msgstr "quand %m.sensor %m.lessMore %n"
@@ -444,7 +444,7 @@ msgid "when %m.triggerSensor > %n"
 msgstr "quand %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
-msgstr "suñ bëse @greenFlag"
+msgstr "suñ cliqué @greenFlag"
 
 msgid "when I receive %m.broadcast"
 msgstr "quand je reçois %m.broadcast"
