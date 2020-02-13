@@ -3,22 +3,68 @@ Traduire Scratch en Wolof
 
 ![GitHub Logo](assets/img/intro.png)
 
-##  Installer l'éditeur Scratch 2.0
+## Rejoindre l'équipe
+Vous avez une bonne maîtrise de scratch et du Wolof, parler Anglais ou Français. Rejoignez-nous
 
-Vous pouvez installer l'éditeur [**Scratch 2.0**](https://scratch.mit.edu/download/) pour travailler sur des projets sans connexion internet. Cette version est compatible pour **Mac**, **Windows** et **Linux**. Cliquez [**ici**](https://scratch.mit.edu/download/)
+<ol>
+    <li>Inscrivez-vous ici https://www.transifex.com/</li>
+    <li>Rejoignez l’équipe Scratch</li>
+    <li>Rejoindre la traduction en wolof</li>
+</ol>
 
-## Télécharger la traduction Wolof
+## Traduction
 
-Cliquez [**ici**](https://github.com/senegalouvert/annuaire-sites-publics-senegal/archive/master.zip) pour télécharger ou sur **clone or download**
+### En ligne
+Vous pouvez traduire en ligne sur [transifex.com](https://www.transifex.com/)
 
-## Ajouter la traduction
+### Locale
+Avec l'aide Transifex CLI vous pouvez traduire en locale.
 
-* Copiez le fichier **wo.po** dans le dossier **locale** de Scratch
-* Ajoutez la ligne suivant dans le fichier **lang_list.txt** qui est aussi dans le dossier **locale** de Scratch
+**Installation Transifex CLI**
+
+Sous linux tapez la commande suivante
 
 ```
-wo,Wolof
+sudo apt install transifex-client
+````
+
+Sous Windows
+
+**Initialisation projet**
+Vous avez besoin d'un Token, allez à [https://www.transifex.com/user/settings/api/](https://www.transifex.com/user/settings/api/) pour vous générer un clé.
+
+Tapez les commande suivantes
+
 ```
+git clone https://github.com/KaayCoder/Scratch-si-wolof.git
+cd Scratch-si-wolof
+tx init --token=<votre_token_Transifex>
+```
+Si cela ne marche pas faites
+```
+sudo tx init --token=<votre_token_Transifex>
+```
+Pas besoin d'entrer le chemin local,tapez **ctrl-z** pour sortir
+
+**Configuration projet**
+
+tapez la commande suivante
+
+```
+tx config mapping-remote https://www.transifex.com/llk/scratch-editor/
+```
+**Téléchargez Traduction**
+Avec la commande suivante vous allez télécharger la traduction en Wolof
+
+```
+sudo tx pull -l wo
+```
+
+La traduction est dans le dossier **translations**
+
+
+## Référence
+
 
 ## Contribuer
 
