@@ -160,7 +160,7 @@
         "description": "Label for the rounded rectangle tool"
     },
     "paint.selectMode.select": {
-        "message": "Select",
+        "message": "Tànn al",
         "description": "Label for the select tool, which allows selecting, moving, and resizing shapes"
     },
     "paint.textMode.text": {

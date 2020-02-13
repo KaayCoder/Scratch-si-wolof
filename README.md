@@ -38,12 +38,9 @@ Tapez les commande suivantes
 ```
 git clone https://github.com/KaayCoder/Scratch-si-wolof.git
 cd Scratch-si-wolof
-tx init --token=<votre_token_Transifex>
-```
-Si cela ne marche pas faites
-```
 sudo tx init --token=<votre_token_Transifex>
 ```
+
 Pas besoin d'entrer le chemin local,tapez **ctrl-z** pour sortir
 
 **Configuration projet**
@@ -51,7 +48,7 @@ Pas besoin d'entrer le chemin local,tapez **ctrl-z** pour sortir
 tapez la commande suivante
 
 ```
-tx config mapping-remote https://www.transifex.com/llk/scratch-editor/
+sudo tx config mapping-remote https://www.transifex.com/llk/scratch-editor/
 ```
 **Téléchargez Traduction**
 Avec la commande suivante vous allez télécharger la traduction en Wolof
@@ -61,6 +58,12 @@ sudo tx pull -l wo
 ```
 
 La traduction est dans le dossier **translations**
+
+**Proposez Traduction**
+
+```
+sudo tx push -t
+```
 
 
 ## Référence
