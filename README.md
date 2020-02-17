@@ -75,6 +75,7 @@ Lisez s'il vous plait [CONTRIBUTING.md](CONTRIBUTING.md) pour plus de détails s
 
 ## contributeurs
 
+* [Thierno DIOP](https://twitter.com/g33kdiop)
 * Votant des sondages sur le compte twitter [@kaaycoder](https://twitter.com/kaaycoder)
 
 ## Auteurs

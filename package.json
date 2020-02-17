@@ -4,8 +4,11 @@
   "description": "Script pour maintenir la traduction en wolof de Scratch",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"$(grep TX_TOKEN .env | cut -d '=' -f2)\"",
-    "init": "sudo tx init --token=$(grep TX_TOKEN .env | cut -d '=' -f2)"
+    "token": "echo \"$(grep TX_TOKEN .env | cut -d '=' -f2)\"",
+    "init": "sudo tx init --token=$(grep TX_TOKEN .env | cut -d '=' -f2)",
+    "config": "sudo tx config mapping-remote https://www.transifex.com/llk/scratch-editor/",
+    "pull": "sudo tx pull -l wo",
+    "push": "sudo tx push -t"
   },
   "repository": {
     "type": "git",
