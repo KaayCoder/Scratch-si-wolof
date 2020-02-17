@@ -1,0 +1,24 @@
+{
+  "name": "scratch-si-wolof",
+  "version": "1.0.0",
+  "description": "Script pour maintenir la traduction en wolof de Scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"$(grep TX_TOKEN .env | cut -d '=' -f2)\"",
+    "init": "sudo tx init --token=$(grep TX_TOKEN .env | cut -d '=' -f2)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaayCoder/Scratch-si-wolof.git"
+  },
+  "keywords": [
+    "Scratch",
+    "Wolof"
+  ],
+  "author": "Mamadou Diagne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KaayCoder/Scratch-si-wolof/issues"
+  },
+  "homepage": "https://github.com/KaayCoder/Scratch-si-wolof#readme"
+}
