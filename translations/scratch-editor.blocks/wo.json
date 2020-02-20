@@ -38,7 +38,7 @@
   "DATA_INDEX_ALL": "all",
   "DATA_INDEX_LAST": "last",
   "DATA_INDEX_RANDOM": "random",
-  "EVENT_WHENFLAGCLICKED": "when %1 clicked",
+  "EVENT_WHENFLAGCLICKED": "suñ cliqué %1",
   "EVENT_WHENTHISSPRITECLICKED": "when this sprite clicked",
   "EVENT_WHENSTAGECLICKED": "when stage clicked",
   "EVENT_WHENTOUCHINGOBJECT": "when this sprite touches %1",
