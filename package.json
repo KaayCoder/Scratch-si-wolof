@@ -10,7 +10,7 @@
     "pull": "sudo tx pull -l wo",
     "propose":"git commit -a && git push",
     "recover":"git pull",
-    "push": "npm run propose && sudo tx push -t"
+    "push": "npm run propose && (sudo tx push -t)"
   },
   "repository": {
     "type": "git",
