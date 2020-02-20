@@ -8,7 +8,9 @@
     "init": "sudo tx init --token=$(grep TX_TOKEN .env | cut -d '=' -f2)",
     "config": "sudo tx config mapping-remote https://www.transifex.com/llk/scratch-editor/",
     "pull": "sudo tx pull -l wo",
-    "push": "sudo tx push -t"
+    "propose":"git commit -a && git push",
+    "recover":"git pull",
+    "push": "npm run propose && sudo tx push -t"
   },
   "repository": {
     "type": "git",
