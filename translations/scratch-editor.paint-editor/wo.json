@@ -23,10 +23,6 @@
         "message": "We're working on it {emoji}",
         "description": "One of the \"coming soon\" random messages for yet-to-be-done features"
     },
-    "paint.paintEditor.fill": {
-        "message": "Fill",
-        "description": "Label for the color picker for the fill color"
-    },
     "paint.paintEditor.costume": {
         "message": "Costume",
         "description": "Label for the name of a costume"
@@ -122,6 +118,10 @@
     "paint.paintEditor.vector": {
         "message": "Convert to Vector",
         "description": "Label for button that converts the paint editor to vector mode"
+    },
+    "paint.paintEditor.fill": {
+        "message": "Fill",
+        "description": "Label for the color picker for the fill color"
     },
     "paint.paintEditor.stroke": {
         "message": "Outline",
