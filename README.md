@@ -28,46 +28,73 @@ Sous linux tapez la commande suivante
 sudo apt install transifex-client
 ````
 
-Sous Windows
+**Récupérer le projet**
 
-**Initialisation projet**
-Vous avez besoin d'un Token, allez à [https://www.transifex.com/user/settings/api/](https://www.transifex.com/user/settings/api/) pour vous générer un clé.
-
-Tapez les commande suivantes
+Tapez cette commande
 
 ```
 git clone https://github.com/KaayCoder/Scratch-si-wolof.git
 cd Scratch-si-wolof
-sudo tx init --token=<votre_token_Transifex>
+```
+**Initialisation projet**
+
+Vous avez besoin d'un Token, allez à [https://www.transifex.com/user/settings/api/](https://www.transifex.com/user/settings/api/) pour vous générer un clé.
+
+Enregistrez votre Token en local avec la commande suivante. Remplacer <votre_token_Transifex> par votre clé générée
+
+```
+echo TX_TOKEN=<votre_token_Transifex> > .env
 ```
 
-Pas besoin d'entrer le chemin local,tapez **ctrl-z** pour sortir
+Tapez la commande suivante pour l'initialisation de votre projet
+
+```
+npm run init
+```
+
+Pas besoin d'entrer le chemin local, tapez **ctrl-z** pour sortir
 
 **Configuration projet**
 
 tapez la commande suivante
 
 ```
-sudo tx config mapping-remote https://www.transifex.com/llk/scratch-editor/
+npm run config
 ```
-**Téléchargez Traduction**
+
+**Téléchargez Traduction depuis Transifex**
+
 Avec la commande suivante vous allez télécharger la traduction en Wolof
 
 ```
-sudo tx pull -l wo
+npm run pull
 ```
 
-La traduction est dans le dossier **translations**
+La traduction est dans le dossier **translations**. Bonne traduction ;-)
 
-**Proposez Traduction**
+
+**Proposez votre traduction sur github**
+```
+npm run propose
+```
+
+**Récuperez une traduction sur github**
+```
+npm run recover
+```
+
+**Envoyer votre traduction sur Transifex**
 
 ```
-sudo tx push -t
+npm run push
 ```
 
 
-## Référence
+## Document de Référence
+Nous recommandons les documents suivant pour vous aidr dans l'écriture de la langue wolof
 
+* [Dictionnaire wolof-français et français-wolof](https://books.google.sn/books?id=gJ8YBgAAQBAJ&hl=fr)
+* [Dictionnaire français-wolof et français-bambara, suivi du dictionnaire wolof-français](https://books.google.sn/books?id=HqoFAAAAQAAJ&hl=fr)
 
 ## Contribuer
 
