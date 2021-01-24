@@ -1,0 +1,47 @@
+{
+  "version": "2.0.10",
+  "replacements": [
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "move",
+      "repB": "doxal",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "steps",
+      "repB": "jéego",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "when",
+      "repB": "saasu",
+      "type": "Simple"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "clicked",
+      "repB": "bësee",
+      "type": "Simple"
+    },
+    {
+      "repA": "turn",
+      "repB": "wëlbëtikul",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "degrees",
+      "repB": "dayo",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    }
+  ]
+}
