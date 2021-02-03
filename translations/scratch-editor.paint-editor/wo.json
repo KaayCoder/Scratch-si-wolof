@@ -1,6 +1,6 @@
 {
     "paint.paintEditor.hue": {
-        "message": "Color",
+        "message": "Melo",
         "description": "Label for the hue component in the color picker"
     },
     "paint.paintEditor.saturation": {
@@ -8,43 +8,43 @@
         "description": "Label for the saturation component in the color picker"
     },
     "paint.paintEditor.brightness": {
-        "message": "Brightness",
+        "message": "Leeraay",
         "description": "Label for the brightness component in the color picker"
     },
     "gui.comingSoon.message1": {
-        "message": "Don't worry, we're on it {emoji}",
+        "message": "Bul jaaxle, nji ngi ci {emoji}",
         "description": "One of the \"coming soon\" random messages for yet-to-be-done features"
     },
     "gui.comingSoon.message2": {
-        "message": "Coming Soon...",
+        "message": "Balaa yàgg...",
         "description": "One of the \"coming soon\" random messages for yet-to-be-done features"
     },
     "gui.comingSoon.message3": {
-        "message": "We're working on it {emoji}",
+        "message": "Nji ngi ciy liggéey {emoji}",
         "description": "One of the \"coming soon\" random messages for yet-to-be-done features"
     },
     "paint.paintEditor.costume": {
-        "message": "Costume",
+        "message": "Yéré",
         "description": "Label for the name of a costume"
     },
     "paint.paintEditor.group": {
-        "message": "Group",
+        "message": "Boole",
         "description": "Label for the button to group shapes"
     },
     "paint.paintEditor.ungroup": {
-        "message": "Ungroup",
+        "message": "taqale",
         "description": "Label for the button to ungroup shapes"
     },
     "paint.paintEditor.undo": {
-        "message": "Undo",
+        "message": "Dëppu",
         "description": "Alt to image for the button to undo an action"
     },
     "paint.paintEditor.redo": {
-        "message": "Redo",
+        "message": "Dello ko ci",
         "description": "Alt to image for the button to redo an action"
     },
     "paint.paintEditor.forward": {
-        "message": "Forward",
+        "message": "Foreward",
         "description": "Label for the `Send forward on canvas` button"
     },
     "paint.paintEditor.backward": {
@@ -52,7 +52,7 @@
         "description": "Label for the `Send backward on canvas` button"
     },
     "paint.paintEditor.front": {
-        "message": "Front",
+        "message": "",
         "description": "Label for the `Send to front of canvas` button"
     },
     "paint.paintEditor.back": {
@@ -60,7 +60,7 @@
         "description": "Label for the `Send to back of canvas` button"
     },
     "paint.paintEditor.more": {
-        "message": "More",
+        "message": "Yaneen",
         "description": "Label for dropdown to access more action buttons"
     },
     "paint.modeTools.brushSize": {
@@ -72,15 +72,15 @@
         "description": "Label for the eraser size input"
     },
     "paint.modeTools.copy": {
-        "message": "Copy",
+        "message": "Sotti",
         "description": "Label for the copy button"
     },
     "paint.modeTools.paste": {
-        "message": "Paste",
+        "message": "Taf",
         "description": "Label for the paste button"
     },
     "paint.modeTools.delete": {
-        "message": "Delete",
+        "message": "Far",
         "description": "Label for the delete button"
     },
     "paint.modeTools.curved": {
@@ -164,11 +164,11 @@
         "description": "Label for the select tool, which allows selecting, moving, and resizing shapes"
     },
     "paint.textMode.text": {
-        "message": "Text",
+        "message": "Bind",
         "description": "Label for the text tool"
     },
     "paint.colorPicker.swap": {
-        "message": "Swap",
+        "message": "Wecci",
         "description": "Label for button that swaps the two colors in a gradient"
     }
 }
