@@ -8,7 +8,7 @@
         "description": "Label for the saturation component in the color picker"
     },
     "paint.paintEditor.brightness": {
-        "message": "Leeraay",
+        "message": "Leeraay bi",
         "description": "Label for the brightness component in the color picker"
     },
     "gui.comingSoon.message1": {
@@ -44,19 +44,19 @@
         "description": "Alt to image for the button to redo an action"
     },
     "paint.paintEditor.forward": {
-        "message": "Foreward",
+        "message": "Ci kawam",
         "description": "Label for the `Send forward on canvas` button"
     },
     "paint.paintEditor.backward": {
-        "message": "Backward",
+        "message": "Ci Ginnàwam",
         "description": "Label for the `Send backward on canvas` button"
     },
     "paint.paintEditor.front": {
-        "message": "",
+        "message": "Tek ko ci kaw",
         "description": "Label for the `Send to front of canvas` button"
     },
     "paint.paintEditor.back": {
-        "message": "Back",
+        "message": "Tek ko ci suuf",
         "description": "Label for the `Send to back of canvas` button"
     },
     "paint.paintEditor.more": {
@@ -64,11 +64,11 @@
         "description": "Label for dropdown to access more action buttons"
     },
     "paint.modeTools.brushSize": {
-        "message": "Size",
+        "message": "Tolluwaay",
         "description": "Label for the brush size input"
     },
     "paint.modeTools.eraserSize": {
-        "message": "Eraser size",
+        "message": "Tolluwaayu Eraser",
         "description": "Label for the eraser size input"
     },
     "paint.modeTools.copy": {
@@ -112,15 +112,15 @@
         "description": "Label for the button that sets the bitmap rectangle/oval mode to draw filled-in shapes"
     },
     "paint.paintEditor.bitmap": {
-        "message": "Convert to Bitmap",
+        "message": "Soppi ko Bitmap",
         "description": "Label for button that converts the paint editor to bitmap mode"
     },
     "paint.paintEditor.vector": {
-        "message": "Convert to Vector",
+        "message": "Soppi ko Vector",
         "description": "Label for button that converts the paint editor to vector mode"
     },
     "paint.paintEditor.fill": {
-        "message": "Fill",
+        "message": "Feesal",
         "description": "Label for the color picker for the fill color"
     },
     "paint.paintEditor.stroke": {
@@ -128,7 +128,7 @@
         "description": "Label for the color picker for the outline color"
     },
     "paint.brushMode.brush": {
-        "message": "Brush",
+        "message": "Bale",
         "description": "Label for the brush tool"
     },
     "paint.eraserMode.eraser": {
@@ -136,19 +136,19 @@
         "description": "Label for the eraser tool"
     },
     "paint.fillMode.fill": {
-        "message": "Fill",
+        "message": "Feesal",
         "description": "Label for the fill tool"
     },
     "paint.lineMode.line": {
-        "message": "Line",
+        "message": "Rëdd",
         "description": "Label for the line tool"
     },
     "paint.ovalMode.oval": {
-        "message": "Circle",
+        "message": "Mbege",
         "description": "Label for the oval-drawing tool"
     },
     "paint.rectMode.rect": {
-        "message": "Rectangle",
+        "message": "Jubkoñ",
         "description": "Label for the rectangle tool"
     },
     "paint.reshapeMode.reshape": {
