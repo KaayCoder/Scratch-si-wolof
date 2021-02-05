@@ -68,7 +68,7 @@
         "description": "Label for the brush size input"
     },
     "paint.modeTools.eraserSize": {
-        "message": "Tolluwaayu Eraser",
+        "message": "Tolluwaayu faru bi",
         "description": "Label for the eraser size input"
     },
     "paint.modeTools.copy": {
@@ -92,15 +92,15 @@
         "description": "Label for the button that converts selected points to sharp points"
     },
     "paint.modeTools.thickness": {
-        "message": "Thickness",
+        "message": "Talaay",
         "description": "Label for the number input to choose the line thickness"
     },
     "paint.modeTools.flipHorizontal": {
-        "message": "Flip Horizontal",
+        "message": "Def ko mu tëdd",
         "description": "Label for the button to flip the image horizontally"
     },
     "paint.modeTools.flipVertical": {
-        "message": "Flip Vertical",
+        "message": "Def ko mu taxaw",
         "description": "Label for the button to flip the image vertically"
     },
     "paint.modeTools.filled": {
@@ -124,7 +124,7 @@
         "description": "Label for the color picker for the fill color"
     },
     "paint.paintEditor.stroke": {
-        "message": "Outline",
+        "message": "Wërngal",
         "description": "Label for the color picker for the outline color"
     },
     "paint.brushMode.brush": {
@@ -132,7 +132,7 @@
         "description": "Label for the brush tool"
     },
     "paint.eraserMode.eraser": {
-        "message": "Eraser",
+        "message": "Faru bi",
         "description": "Label for the eraser tool"
     },
     "paint.fillMode.fill": {
@@ -152,7 +152,7 @@
         "description": "Label for the rectangle tool"
     },
     "paint.reshapeMode.reshape": {
-        "message": "Reshape",
+        "message": "Tëggaat",
         "description": "Label for the reshape tool, which allows changing the points in the lines of the vectors"
     },
     "paint.roundedRectMode.roundedRect": {
