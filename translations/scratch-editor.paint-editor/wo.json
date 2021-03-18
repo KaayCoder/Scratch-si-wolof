@@ -1,10 +1,10 @@
 {
     "paint.paintEditor.hue": {
-        "message": "Melo",
+        "message": "Wirgo",
         "description": "Label for the hue component in the color picker"
     },
     "paint.paintEditor.saturation": {
-        "message": "Saturation",
+        "message": "Feesaay",
         "description": "Label for the saturation component in the color picker"
     },
     "paint.paintEditor.brightness": {
@@ -24,7 +24,7 @@
         "description": "One of the \"coming soon\" random messages for yet-to-be-done features"
     },
     "paint.paintEditor.costume": {
-        "message": "Yéré",
+        "message": "Colka",
         "description": "Label for the name of a costume"
     },
     "paint.paintEditor.group": {
@@ -32,7 +32,7 @@
         "description": "Label for the button to group shapes"
     },
     "paint.paintEditor.ungroup": {
-        "message": "taqale",
+        "message": "tàqale",
         "description": "Label for the button to ungroup shapes"
     },
     "paint.paintEditor.undo": {
@@ -40,7 +40,7 @@
         "description": "Alt to image for the button to undo an action"
     },
     "paint.paintEditor.redo": {
-        "message": "Dello ko ci",
+        "message": "Defaat",
         "description": "Alt to image for the button to redo an action"
     },
     "paint.paintEditor.forward": {
@@ -52,11 +52,11 @@
         "description": "Label for the `Send backward on canvas` button"
     },
     "paint.paintEditor.front": {
-        "message": "Tek ko ci kaw",
+        "message": "Kanam",
         "description": "Label for the `Send to front of canvas` button"
     },
     "paint.paintEditor.back": {
-        "message": "Tek ko ci suuf",
+        "message": "Ginnaaw",
         "description": "Label for the `Send to back of canvas` button"
     },
     "paint.paintEditor.more": {
@@ -132,7 +132,7 @@
         "description": "Label for the brush tool"
     },
     "paint.eraserMode.eraser": {
-        "message": "Faru bi",
+        "message": "Faru",
         "description": "Label for the eraser tool"
     },
     "paint.fillMode.fill": {

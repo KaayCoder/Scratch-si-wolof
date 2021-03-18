@@ -1,26 +1,26 @@
 {
     "gui.alerts.lostPeripheralConnection": {
-        "message": "Scratch lost connection to {extensionName}.",
+        "message": "Scratch ñakk na lënku ci {extensionName}.",
         "description": "Message indicating that an extension peripheral has been disconnected"
     },
     "gui.alerts.tryAgain": {
-        "message": "Try Again",
+        "message": "Jéemaatal",
         "description": "Button to try saving again"
     },
     "gui.alerts.download": {
-        "message": "Download",
+        "message": "Wàcce",
         "description": "Button to download project locally"
     },
     "gui.connection.reconnect": {
-        "message": "Reconnect",
+        "message": "Lënkuwaat",
         "description": "Button to reconnect the device"
     },
     "gui.backpack.costumeLabel": {
-        "message": "costume",
+        "message": "colka",
         "description": "Label for costume backpack item"
     },
     "gui.backpack.soundLabel": {
-        "message": "sound",
+        "message": "way",
         "description": "Label for sound backpack item"
     },
     "gui.backpack.scriptLabel": {
@@ -28,7 +28,7 @@
         "description": "Label for script backpack item"
     },
     "gui.backpack.spriteLabel": {
-        "message": "sprite",
+        "message": "njuuma",
         "description": "Label for sprite backpack item"
     },
     "gui.backpack.header": {
@@ -40,11 +40,11 @@
         "description": "Error backpack message"
     },
     "gui.backpack.loadingBackpack": {
-        "message": "Loading...",
+        "message": "Wàcc...",
         "description": "Loading backpack message"
     },
     "gui.backpack.more": {
-        "message": "More",
+        "message": "Yaneen",
         "description": "Load more from backpack"
     },
     "gui.backpack.emptyBackpack": {
@@ -52,7 +52,7 @@
         "description": "Empty backpack message"
     },
     "gui.unsupportedBrowser.label": {
-        "message": "Browser is not supported",
+        "message": "Joowukaay bi mënu koo doxal",
         "description": ""
     },
     "gui.unsupportedBrowser.errorLabel": {
@@ -60,19 +60,19 @@
         "description": "Heading shown when there is an unhandled exception in an unsupported browser"
     },
     "gui.unsupportedBrowser.notRecommended": {
-        "message": "We are very sorry, but it looks like you are using a browser version that Scratch does not support. We recommend updating to the latest version of a supported browser such as Google Chrome, Mozilla Firefox, Microsoft Edge, or Apple Safari.",
+        "message": "Noo ngi jéggalu, waaye day niru ne Scratch du dox ci wersioŋu joowukaay bi ngay jëfëndikoo. Danu lay laayebiir ci nga yeesal ko ci wersioŋ bu mucc bu joowukaay bu koy doxal bu ci mel ni Google Chrome, Mozilla Firefox, Microsoft Edge, wala Apple Safari.",
         "description": "Error message when the browser does not meet our minimum requirements"
     },
     "gui.unsupportedBrowser.description": {
-        "message": "We are very sorry, but Scratch does not support this browser. We recommend updating to the latest version of a supported browser such as Google Chrome, Mozilla Firefox, Microsoft Edge, or Apple Safari.",
+        "message": "Noo ngi jéggalu, waaye Scratch du dox ci wersioŋu joowukaay bii . Danu lay laayebiir ci nga yeesal ko ci wersioŋ bu mucc bu joowukaay bu koy doxal bu ci mel ni Google Chrome, Mozilla Firefox, Microsoft Edge, wala Apple Safari.",
         "description": "Error message when the browser does not work at all (IE)"
     },
     "gui.unsupportedBrowser.back": {
-        "message": "Back",
+        "message": "Gannaaw",
         "description": "Button to go back in unsupported browser modal"
     },
     "gui.unsupportedBrowser.previewfaq": {
-        "message": "To learn more, go to the {previewFaqLink}.",
+        "message": "Ngir gën a jàng, demal ci {previewFaqLink}.",
         "description": "Invitation to try 3.0 preview"
     },
     "gui.unsupportedBrowser.previewfaqlinktext": {
@@ -80,7 +80,7 @@
         "description": "link to Scratch 3.0 FAQ page"
     },
     "gui.cameraModal.cameraModalTitle": {
-        "message": "Take a Photo",
+        "message": "Jël ab Nataal",
         "description": "Title for prompt to take a picture (to add as a new costume)."
     },
     "gui.cameraModal.loadingCameraMessage": {
@@ -88,23 +88,23 @@
         "description": "Notification to the user that the camera is loading"
     },
     "gui.cameraModal.permissionRequest": {
-        "message": "We need your permission to use your camera",
+        "message": "Danoo soxlawoo sa ndigal ngir jëfëndikoo sa \"Camera\"",
         "description": "Notification to the user that the app needs camera access"
     },
     "gui.cameraModal.retakePhoto": {
-        "message": "Retake Photo",
+        "message": "Jëlaat Nataal",
         "description": "A button that allows the user to take the picture again, replacing the old one"
     },
     "gui.cameraModal.save": {
-        "message": "Save",
+        "message": "Denc",
         "description": "A button that allows the user to save the photo they took as a costume"
     },
     "gui.cameraModal.takePhoto": {
-        "message": "Take Photo",
+        "message": "Jël Nataal",
         "description": "A button to take a photo"
     },
     "gui.cameraModal.loadingCaption": {
-        "message": "Loading...",
+        "message": "Wàcc...",
         "description": "A caption for a disabled button while the video from the camera is still loading"
     },
     "gui.cameraModal.enableCameraCaption": {
@@ -112,47 +112,47 @@
         "description": "A caption for a disabled button prompting the user to enable camera access"
     },
     "gui.cards.all-tutorials": {
-        "message": "Tutorials",
+        "message": "Njàngale",
         "description": "Title for button to return to tutorials library"
     },
     "gui.cards.shrink": {
-        "message": "Shrink",
+        "message": "Wàññeeku",
         "description": "Title for button to shrink how-to card"
     },
     "gui.cards.expand": {
-        "message": "Expand",
+        "message": "Yokk",
         "description": "Title for button to expand how-to card"
     },
     "gui.cards.close": {
-        "message": "Close",
+        "message": "Tëj",
         "description": "Title for button to close how-to card"
     },
     "gui.cards.more-things-to-try": {
-        "message": "More things to try!",
+        "message": "Yaneen mbir ngir jéem!",
         "description": "Title card with more things to try"
     },
     "gui.cards.see-more": {
-        "message": "See more",
+        "message": "Gis yaneen",
         "description": "Title for button to see more in how-to library"
     },
     "gui.comingSoon.message1": {
-        "message": "Don't worry, we're on it {emoji}",
+        "message": "Bul jàq, noo ngi ci {emoji}",
         "description": "One of the \"coming soon\" random messages for yet-to-be-done features"
     },
     "gui.comingSoon.message2": {
-        "message": "Coming Soon...",
+        "message": "Mi gi ñëwaat...",
         "description": "One of the \"coming soon\" random messages for yet-to-be-done features"
     },
     "gui.comingSoon.message3": {
-        "message": "We're working on it {emoji}",
+        "message": "Noo ngi ciy lëggéey {emoji}",
         "description": "One of the \"coming soon\" random messages for yet-to-be-done features"
     },
     "gui.connection.auto-scanning.noPeripheralsFound": {
-        "message": "No devices found",
+        "message": "Gisunu benn jumtukaay",
         "description": "Text shown when no devices could be found"
     },
     "gui.connection.auto-scanning.prescan": {
-        "message": "Have your device nearby, then begin searching.",
+        "message": "Jegeel sa jumtukaay, te door gëstu bi.",
         "description": "Prompt for beginning the search"
     },
     "gui.connection.auto-scanning.pressbutton": {
@@ -168,7 +168,7 @@
         "description": "Label indicating that search is in progress"
     },
     "gui.connection.auto-scanning.try-again": {
-        "message": "Try again",
+        "message": "Jéemaatal",
         "description": "Button in prompt for trying a device search again"
     },
     "gui.connection.connected": {
@@ -184,43 +184,43 @@
         "description": "Button to return to the editor"
     },
     "gui.connection.connecting-cancelbutton": {
-        "message": "Connecting...",
+        "message": "Di lënku...",
         "description": "Label indicating that connection is in progress"
     },
     "gui.connection.error.errorMessage": {
-        "message": "Oops, looks like something went wrong.",
+        "message": "Ups, dafa mel ni amna lu jaarul yoon.",
         "description": "The device connection process has encountered an error."
     },
     "gui.connection.error.tryagainbutton": {
-        "message": "Try again",
+        "message": "Jéemaatal",
         "description": "Button to initiate trying the device connection again after an error"
     },
     "gui.connection.error.helpbutton": {
-        "message": "Help",
+        "message": "Ndimbal",
         "description": "Button to view help content"
     },
     "gui.connection.peripheral-name-label": {
-        "message": "Device name",
+        "message": "Turu jumtukaay bi ",
         "description": "Label for field showing the device name"
     },
     "gui.connection.connect": {
-        "message": "Connect",
+        "message": "Lënku",
         "description": "Button to start connecting to a specific device"
     },
     "gui.connection.scanning.lookingforperipherals": {
-        "message": "Looking for devices",
+        "message": "Di seet jumtukaay",
         "description": "Text shown while scanning for devices"
     },
     "gui.connection.scanning.noPeripheralsFound": {
-        "message": "No devices found",
+        "message": "Gisul benn jumtukaay",
         "description": "Text shown when no devices could be found"
     },
     "gui.connection.scanning.instructions": {
-        "message": "Select your device in the list above.",
+        "message": "Tànn sa jumtukaay ci lim bii.",
         "description": "Prompt for choosing a device to connect to"
     },
     "gui.connection.search": {
-        "message": "Refresh",
+        "message": "Yeesal",
         "description": "Button in prompt for starting a search"
     },
     "gui.connection.unavailable.installscratchlink": {
@@ -332,7 +332,7 @@
         "description": "Button to get to the costumes panel"
     },
     "gui.gui.soundsTab": {
-        "message": "Sounds",
+        "message": "Ay way",
         "description": "Button to get to the sounds panel"
     },
     "gui.extensionLibrary.comingSoon": {
@@ -348,11 +348,11 @@
         "description": "Label for extension collaboration"
     },
     "gui.library.filterPlaceholder": {
-        "message": "Search",
+        "message": "Seet",
         "description": "Placeholder text for library search field"
     },
     "gui.library.allTag": {
-        "message": "All",
+        "message": "Lépp",
         "description": "Label for library tag to revert to all items after filtering by tag."
     },
     "gui.loader.message1": {
@@ -360,15 +360,15 @@
         "description": "One of the loading messages"
     },
     "gui.loader.message2": {
-        "message": "Loading sprites …",
+        "message": "Wàcce njuuma yi …",
         "description": "One of the loading messages"
     },
     "gui.loader.message3": {
-        "message": "Loading sounds …",
+        "message": "Wàcce way yi …",
         "description": "One of the loading messages"
     },
     "gui.loader.message4": {
-        "message": "Loading extensions …",
+        "message": "Wàcce ndollen yi …",
         "description": "One of the loading messages"
     },
     "gui.loader.message5": {
@@ -388,11 +388,11 @@
         "description": "One of the loading messages"
     },
     "gui.loader.headline": {
-        "message": "Loading Project",
+        "message": "Wàcce Naal bi",
         "description": "Main loading message"
     },
     "gui.loader.creating": {
-        "message": "Creating Project",
+        "message": "Sos Naal",
         "description": "Main creating message"
     },
     "gui.accountMenu.profile": {
@@ -424,15 +424,15 @@
         "description": "Shows that a project was created by this user"
     },
     "gui.menuBar.seeProjectPage": {
-        "message": "See Project Page",
+        "message": "Gis xëtu Naal bi",
         "description": "Label for see project page button"
     },
     "general.username": {
-        "message": "Username",
+        "message": "Turu jëfëndiku",
         "description": "Label for login username input"
     },
     "general.password": {
-        "message": "Password",
+        "message": "Baatu jàll",
         "description": "Label for login password input"
     },
     "general.signIn": {
@@ -440,7 +440,7 @@
         "description": "Button text for user to sign in"
     },
     "login.needHelp": {
-        "message": "Need Help?",
+        "message": "Aajawo Ndimbal?",
         "description": "Button text for user to indicate that they need help"
     },
     "form.validationRequired": {
@@ -448,35 +448,35 @@
         "description": "Message to tell user they must enter text in a form field"
     },
     "gui.menuBar.LanguageSelector": {
-        "message": "language selector",
+        "message": "tànnkaayu làkk",
         "description": "accessibility text for the language selection menu"
     },
     "gui.menuBar.tutorialsLibrary": {
-        "message": "Tutorials",
+        "message": "Njàng yi",
         "description": "accessibility text for the tutorials button"
     },
     "gui.menuBar.restoreSprite": {
-        "message": "Restore Sprite",
+        "message": "Dekkil Njuuma li",
         "description": "Menu bar item for restoring the last deleted sprite."
     },
     "gui.menuBar.restoreSound": {
-        "message": "Restore Sound",
+        "message": "Dekkil Way wi",
         "description": "Menu bar item for restoring the last deleted sound."
     },
     "gui.menuBar.restoreCostume": {
-        "message": "Restore Costume",
+        "message": "Dekkil Colka gi",
         "description": "Menu bar item for restoring the last deleted costume."
     },
     "gui.menuBar.restore": {
-        "message": "Restore",
+        "message": "Dekkil",
         "description": "Menu bar item for restoring the last deleted item in its disabled state."
     },
     "gui.menuBar.saveNow": {
-        "message": "Save now",
+        "message": "Denc leegi",
         "description": "Menu bar item for saving now"
     },
     "gui.menuBar.saveAsCopy": {
-        "message": "Save as a copy",
+        "message": "Denc ni ki ag nduppeen",
         "description": "Menu bar item for saving as a copy"
     },
     "gui.menuBar.remix": {
@@ -484,15 +484,15 @@
         "description": "Menu bar item for remixing"
     },
     "gui.menuBar.new": {
-        "message": "New",
+        "message": "Bees",
         "description": "Menu bar item for creating a new project"
     },
     "gui.menuBar.file": {
-        "message": "File",
+        "message": "Wayndare",
         "description": "Text for file dropdown menu"
     },
     "gui.menuBar.downloadToComputer": {
-        "message": "Save to your computer",
+        "message": "Denci ci sa nosukaay",
         "description": "Menu bar item for downloading a project to your computer"
     },
     "gui.menuBar.edit": {
@@ -520,7 +520,7 @@
         "description": "Placeholder for project title when blank"
     },
     "gui.menuBar.saveNowLink": {
-        "message": "Save Now",
+        "message": "Denc leegi",
         "description": "Title bar link for saving now"
     },
     "gui.menuBar.isShared": {
@@ -532,11 +532,11 @@
         "description": "Label for project share button"
     },
     "gui.modal.help": {
-        "message": "Help",
+        "message": "Ndimbal",
         "description": "Help button in modal"
     },
     "gui.modal.back": {
-        "message": "Back",
+        "message": "Kannaaw",
         "description": "Back button in modal"
     },
     "gui.monitor.listMonitor.empty": {
@@ -576,7 +576,7 @@
         "description": "Title of the button to start playing the sound"
     },
     "gui.playButton.stop": {
-        "message": "Stop",
+        "message": "Taxawal",
         "description": "Title of the button to stop the sound"
     },
     "gui.gui.variableScopeOptionAllSprites": {
@@ -688,7 +688,7 @@
         "description": "Title of the button to copy the selection into a new sound"
     },
     "gui.soundEditor.delete": {
-        "message": "Delete",
+        "message": "Far",
         "description": "Title of the button to delete the sound"
     },
     "gui.soundEditor.save": {
@@ -696,19 +696,19 @@
         "description": "Title of the button to save trimmed sound"
     },
     "gui.soundEditor.undo": {
-        "message": "Undo",
+        "message": "Bàyyi",
         "description": "Title of the button to undo"
     },
     "gui.soundEditor.redo": {
-        "message": "Redo",
+        "message": "Defaat",
         "description": "Title of the button to redo"
     },
     "gui.soundEditor.faster": {
-        "message": "Faster",
+        "message": "Gën a gaaw",
         "description": "Title of the button to apply the faster effect"
     },
     "gui.soundEditor.slower": {
-        "message": "Slower",
+        "message": "Gën a yeex",
         "description": "Title of the button to apply the slower effect"
     },
     "gui.soundEditor.echo": {
@@ -720,15 +720,15 @@
         "description": "Title of the button to apply the robot effect"
     },
     "gui.soundEditor.louder": {
-        "message": "Louder",
+        "message": "Gën a xummbu",
         "description": "Title of the button to apply the louder effect"
     },
     "gui.soundEditor.softer": {
-        "message": "Softer",
+        "message": "Gën a oyof",
         "description": "Title of the button to apply thr.softer effect"
     },
     "gui.soundEditor.reverse": {
-        "message": "Reverse",
+        "message": "Wëlbëti",
         "description": "Title of the button to apply the reverse effect"
     },
     "gui.soundEditor.fadeOut": {
@@ -740,15 +740,15 @@
         "description": "Title of the button to apply the fade in effect"
     },
     "gui.soundEditor.mute": {
-        "message": "Mute",
+        "message": "Luu",
         "description": "Title of the button to apply the mute effect"
     },
     "gui.SpriteInfo.spritePlaceholder": {
-        "message": "Name",
+        "message": "Tur",
         "description": "Placeholder text for sprite name"
     },
     "gui.SpriteInfo.sprite": {
-        "message": "Sprite",
+        "message": "Njuuma",
         "description": "Sprite info label"
     },
     "gui.SpriteInfo.show": {
@@ -760,7 +760,7 @@
         "description": "Sprite info size label"
     },
     "gui.spriteSelectorItem.contextMenuDuplicate": {
-        "message": "duplicate",
+        "message": "Sotti",
         "description": "Menu item to duplicate in the right click menu"
     },
     "gui.spriteSelectorItem.contextMenuExport": {
@@ -768,7 +768,7 @@
         "description": "Menu item to export the selected item"
     },
     "gui.spriteSelectorItem.contextMenuDelete": {
-        "message": "delete",
+        "message": "far",
         "description": "Menu item to delete in the right click menu"
     },
     "gui.spriteSelector.addSpriteFromLibrary": {
@@ -847,21 +847,29 @@
         "message": "Privacy Policy",
         "description": "Link to the Scratch privacy policy"
     },
-    "gui.telemetryOptIn.buttonTextNo": {
-        "message": "No, thanks",
-        "description": "Text for telemetry modal opt-out button"
+    "gui.telemetryOptIn.optInText": {
+        "message": "Share my usage data with the Scratch Team",
+        "description": "Text for telemetry modal opt-in button"
     },
-    "gui.telemetryOptIn.buttonTooltipNo": {
+    "gui.telemetryOptIn.optInTooltip": {
+        "message": "Enable telemetry",
+        "description": "Tooltip for telemetry modal opt-in button"
+    },
+    "gui.telemetryOptIn.optOutText": {
+        "message": "Do not share my usage data with the Scratch Team",
+        "description": "Text for telemetry modal opt-in button"
+    },
+    "gui.telemetryOptIn.optOutTooltip": {
         "message": "Disable telemetry",
         "description": "Tooltip for telemetry modal opt-out button"
     },
-    "gui.telemetryOptIn.buttonTextYes": {
-        "message": "Yes, I'd like to help improve Scratch",
-        "description": "Text for telemetry modal opt-in button"
+    "gui.telemetryOptIn.settingWasUpdated": {
+        "message": "Your setting was updated.",
+        "description": "Message indicating that the telemetry setting was updated and saved"
     },
-    "gui.telemetryOptIn.buttonTooltipYes": {
-        "message": "Enable telemetry",
-        "description": "Tooltip for telemetry modal opt-in button"
+    "gui.telemetryOptIn.buttonClose": {
+        "message": "Tëj",
+        "description": "Text for the button which closes the telemetry modal dialog"
     },
     "gui.turboMode.active": {
         "message": "Turbo Mode",
@@ -942,10 +950,6 @@
     "gui.recordingStep.alertMsg": {
         "message": "Could not start recording",
         "description": "Alert for recording error"
-    },
-    "gui.projectLoader.loadError": {
-        "message": "The project file that was selected failed to load.",
-        "description": "An error that displays when a local project file fails to load."
     },
     "gui.soundLibrary.chooseASound": {
         "message": "Choose a Sound",
@@ -1292,7 +1296,7 @@
         "description": "Name for the 'Make a Clicker Game' how-to"
     },
     "gui.howtos.Make-A-Game.step_GamePickSprite": {
-        "message": "Pick A Sprite",
+        "message": "Tànn Ag Njummi",
         "description": "Step name for 'Pick A Sprite' step"
     },
     "gui.howtos.make-a-game.step_GamePlaySound": {
@@ -1772,11 +1776,11 @@
         "description": "Description for the Text to speech extension"
     },
     "gui.extension.translate.name": {
-        "message": "Translate",
+        "message": "Tekki",
         "description": "Name for the Translate extension"
     },
     "gui.extension.translate.description": {
-        "message": "Translate text into many languages.",
+        "message": "Tekki mbind ci làkk yu bari",
         "description": "Description for the Translate extension"
     },
     "gui.extension.makeymakey.description": {
@@ -1788,7 +1792,7 @@
         "description": "Description for the 'micro:bit' extension"
     },
     "gui.extension.microbit.connectingMessage": {
-        "message": "Connecting",
+        "message": "Di lënku",
         "description": "Message to help people connect to their micro:bit."
     },
     "gui.extension.ev3.description": {
@@ -1824,7 +1828,7 @@
         "description": "Message to help people connect to their force and acceleration sensor."
     },
     "gui.libraryTags.all": {
-        "message": "All",
+        "message": "Lépp",
         "description": "Tag for filtering a library for everything"
     },
     "gui.libraryTags.animals": {
@@ -1860,7 +1864,7 @@
         "description": "Tag for filtering a library for loops"
     },
     "gui.libraryTags.music": {
-        "message": "Music",
+        "message": "Mbuug",
         "description": "Tag for filtering a library for music"
     },
     "gui.libraryTags.notes": {
@@ -1964,11 +1968,11 @@
         "description": "Label for the tempo monitor when shown on the stage"
     },
     "gui.opcodeLabels.answer": {
-        "message": "answer",
+        "message": "tontu",
         "description": "Label for the answer monitor when shown on the stage"
     },
     "gui.opcodeLabels.loudness": {
-        "message": "loudness",
+        "message": "xummbaay",
         "description": "Label for the loudness monitor when shown on the stage"
     },
     "gui.opcodeLabels.username": {
@@ -1976,11 +1980,11 @@
         "description": "Label for the username monitor when shown on the stage"
     },
     "gui.opcodeLabels.year": {
-        "message": "year",
+        "message": "at",
         "description": "Label for the current year monitor when shown on the stage"
     },
     "gui.opcodeLabels.month": {
-        "message": "month",
+        "message": "weer",
         "description": "Label for the current month monitor when shown on the stage."
     },
     "gui.opcodeLabels.date": {
@@ -1988,24 +1992,28 @@
         "description": "Label for the current date monitor when shown on the stage. Shows the current day of the month"
     },
     "gui.opcodeLabels.dayofweek": {
-        "message": "day of week",
+        "message": "fanu ayu-bis",
         "description": "Label for the current day of week monitor when shown on the stage"
     },
     "gui.opcodeLabels.hour": {
-        "message": "hour",
+        "message": "waxtu",
         "description": "Label for the current hour monitor when shown on the stage"
     },
     "gui.opcodeLabels.minute": {
-        "message": "minute",
+        "message": "simili",
         "description": "Label for the current minute monitor when shown on the stage"
     },
     "gui.opcodeLabels.second": {
-        "message": "second",
+        "message": "saa",
         "description": "Label for the current second monitor when shown on the stage"
     },
     "gui.opcodeLabels.timer": {
         "message": "timer",
         "description": "Label for the timer monitor when shown on the stage"
+    },
+    "gui.projectLoader.loadError": {
+        "message": "The project file that was selected failed to load.",
+        "description": "An error that displays when a local project file fails to load."
     },
     "gui.sharedMessages.backdrop": {
         "message": "backdrop{index}",
@@ -2016,7 +2024,7 @@
         "description": "Default name for a new costume, scratch will automatically adjust the number if necessary"
     },
     "gui.sharedMessages.sprite": {
-        "message": "Sprite{index}",
+        "message": "Njuuma{index}",
         "description": "Default name for a new sprite, scratch will automatically adjust the number if necessary"
     },
     "gui.sharedMessages.pop": {
@@ -2032,7 +2040,7 @@
         "description": "Title for uploading a project from your computer"
     },
     "gui.gui.defaultProjectTitle": {
-        "message": "Scratch Project",
+        "message": "Naalu Scratch",
         "description": "Default title for project"
     }
 }

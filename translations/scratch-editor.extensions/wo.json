@@ -1,30 +1,30 @@
 {
     "boost.color.any": {
-        "message": "any color",
+        "message": "wirgo bumu ci",
         "description": "any color"
     },
     "boost.color.black": {
-        "message": "black",
+        "message": "ñuul",
         "description": "the color black"
     },
     "boost.color.blue": {
-        "message": "blue",
+        "message": "baxa",
         "description": "the color blue"
     },
     "boost.color.green": {
-        "message": "green",
+        "message": "nëtëx",
         "description": "the color green"
     },
     "boost.color.red": {
-        "message": "red",
+        "message": "xonq",
         "description": "the color red"
     },
     "boost.color.white": {
-        "message": "white",
+        "message": "weex",
         "description": ""
     },
     "boost.color.yellow": {
-        "message": "yellow",
+        "message": "mboq",
         "description": "the color yellow"
     },
     "boost.getMotorPosition": {
@@ -36,15 +36,15 @@
         "description": "the angle returned by the tilt sensor"
     },
     "boost.motorDirection.backward": {
-        "message": "that way",
+        "message": "ci anam gee",
         "description": "label for backward element in motor direction menu for LEGO Boost extension"
     },
     "boost.motorDirection.forward": {
-        "message": "this way",
+        "message": "ci anam gii",
         "description": "label for forward element in motor direction menu for LEGO Boost extension"
     },
     "boost.motorDirection.reverse": {
-        "message": "reverse",
+        "message": "wëlbëti",
         "description": "label for reverse element in motor direction menu for LEGO Boost extension"
     },
     "boost.motorOff": {
@@ -80,23 +80,23 @@
         "description": "set the motor's speed without turning it on"
     },
     "boost.tiltDirection.any": {
-        "message": "any",
+        "message": "bu mu ci",
         "description": "label for any element in tilt direction menu for LEGO Boost extension"
     },
     "boost.tiltDirection.down": {
-        "message": "down",
+        "message": "suuf",
         "description": "label for down element in tilt direction menu for LEGO Boost extension"
     },
     "boost.tiltDirection.left": {
-        "message": "left",
+        "message": "càmmooñ",
         "description": "label for left element in tilt direction menu for LEGO Boost extension"
     },
     "boost.tiltDirection.right": {
-        "message": "right",
+        "message": "nday-joor",
         "description": "label for right element in tilt direction menu for LEGO Boost extension"
     },
     "boost.tiltDirection.up": {
-        "message": "up",
+        "message": "kaw",
         "description": "label for up element in tilt direction menu for LEGO Boost extension"
     },
     "boost.whenColor": {
@@ -116,11 +116,11 @@
         "description": "is a button on some port pressed?"
     },
     "ev3.getBrightness": {
-        "message": "brightness",
+        "message": "leeraay",
         "description": "gets measured brightness"
     },
     "ev3.getDistance": {
-        "message": "distance",
+        "message": "soriwaay",
         "description": "gets measured distance"
     },
     "ev3.getMotorPosition": {
@@ -140,7 +140,7 @@
         "description": "turn a motor counter-clockwise for some time"
     },
     "ev3.whenBrightnessLessThan": {
-        "message": "when brightness < [DISTANCE]",
+        "message": "saasu leeraay < [DISTANCE]",
         "description": "when value measured by brightness sensor is less than some value"
     },
     "ev3.whenButtonPressed": {
@@ -148,7 +148,7 @@
         "description": "when a button connected to a port is pressed"
     },
     "ev3.whenDistanceLessThan": {
-        "message": "when distance < [DISTANCE]",
+        "message": "saasu soriwaay < [DISTANCE]",
         "description": "when the value measured by the distance sensor is less than some value"
     },
     "gdxfor.getAcceleration": {
@@ -156,7 +156,7 @@
         "description": "gets acceleration"
     },
     "gdxfor.getForce": {
-        "message": "force",
+        "message": "doole",
         "description": "gets force"
     },
     "gdxfor.getSpin": {
@@ -192,23 +192,23 @@
         "description": "the sensor started free falling"
     },
     "gdxfor.tiltDirectionMenu.any": {
-        "message": "any",
+        "message": "bu mu ci",
         "description": "label for any direction element in tilt direction picker for gdxfor extension"
     },
     "gdxfor.tiltDirectionMenu.back": {
-        "message": "back",
+        "message": "ginnaaw",
         "description": "label for back element in tilt direction picker for gdxfor extension"
     },
     "gdxfor.tiltDirectionMenu.front": {
-        "message": "front",
+        "message": "kanam",
         "description": "label for front element in tilt direction picker for gdxfor extension"
     },
     "gdxfor.tiltDirectionMenu.left": {
-        "message": "left",
+        "message": "càmmooñ",
         "description": "label for left element in tilt direction picker for gdxfor extension"
     },
     "gdxfor.tiltDirectionMenu.right": {
-        "message": "right",
+        "message": "nday-joor",
         "description": "label for right element in tilt direction picker for gdxfor extension"
     },
     "gdxfor.turnedFaceDown": {
@@ -224,7 +224,7 @@
         "description": "when the force sensor is pushed or pulled"
     },
     "gdxfor.whenGesture": {
-        "message": "when [GESTURE]",
+        "message": "Saasu [GESTURE]",
         "description": "when the sensor detects a gesture"
     },
     "gdxfor.whenTilted": {
@@ -232,39 +232,39 @@
         "description": "when the sensor detects tilt"
     },
     "makeymakey.downArrow": {
-        "message": "down arrow",
+        "message": "fittu suuf",
         "description": "The down arrow key on a computer keyboard."
     },
     "makeymakey.downArrowShort": {
-        "message": "down",
+        "message": "suuf",
         "description": "Short name for the down arrow key on a computer keyboard."
     },
     "makeymakey.leftArrow": {
-        "message": "left arrow",
+        "message": "fittu càmmooñ",
         "description": "The left arrow key on a computer keyboard."
     },
     "makeymakey.leftArrowShort": {
-        "message": "left",
+        "message": "càmmooñ",
         "description": "Short name for the left arrow key on a computer keyboard."
     },
     "makeymakey.rightArrow": {
-        "message": "right arrow",
+        "message": "fittu nday-joor",
         "description": "The right arrow key on a computer keyboard."
     },
     "makeymakey.rightArrowShort": {
-        "message": "right",
+        "message": "nday-joor",
         "description": "Short name for the right arrow key on a computer keyboard."
     },
     "makeymakey.spaceKey": {
-        "message": "space",
+        "message": "diggante",
         "description": "The space key on a computer keyboard."
     },
     "makeymakey.upArrow": {
-        "message": "up arrow",
+        "message": "fittu kaw",
         "description": "The up arrow key on a computer keyboard."
     },
     "makeymakey.upArrowShort": {
-        "message": "up",
+        "message": "kaw",
         "description": "Short name for the up arrow key on a computer keyboard."
     },
     "makeymakey.whenKeyPressed": {
@@ -276,7 +276,7 @@
         "description": "when a sequence of keyboard keys is pressed in a specific order"
     },
     "microbit.buttonsMenu.any": {
-        "message": "any",
+        "message": "bu mu ci",
         "description": "label for \"any\" element in button picker for micro:bit extension"
     },
     "microbit.clearDisplay": {
@@ -284,7 +284,7 @@
         "description": "display nothing on the micro:bit display"
     },
     "microbit.defaultTextToDisplay": {
-        "message": "Hello!",
+        "message": "Mbaa jàmm rekk!",
         "description": "default text to display.\n                                IMPORTANT - the micro:bit only supports letters a-z, A-Z.\n                                Please substitute a default word in your language\n                                that can be written with those characters,\n                                substitute non-accented characters or leave it as \"Hello!\".\n                                Check the micro:bit site documentation for details"
     },
     "microbit.displaySymbol": {
@@ -296,15 +296,15 @@
         "description": "display text on the micro:bit display"
     },
     "microbit.gesturesMenu.jumped": {
-        "message": "jumped",
+        "message": "tëb",
         "description": "label for jumped gesture in gesture picker for micro:bit extension"
     },
     "microbit.gesturesMenu.moved": {
-        "message": "moved",
+        "message": "yëngatu",
         "description": "label for moved gesture in gesture picker for micro:bit extension"
     },
     "microbit.gesturesMenu.shaken": {
-        "message": "shaken",
+        "message": "yëngalee",
         "description": "label for shaken gesture in gesture picker for micro:bit extension"
     },
     "microbit.isButtonPressed": {
@@ -316,11 +316,11 @@
         "description": "is the micro:bit is tilted in a direction?"
     },
     "microbit.pinStateMenu.off": {
-        "message": "off",
+        "message": "fay",
         "description": "label for off element in pin state picker for micro:bit extension"
     },
     "microbit.pinStateMenu.on": {
-        "message": "on",
+        "message": "taal",
         "description": "label for on element in pin state picker for micro:bit extension"
     },
     "microbit.tiltAngle": {
@@ -328,23 +328,23 @@
         "description": "how much the micro:bit is tilted in a direction"
     },
     "microbit.tiltDirectionMenu.any": {
-        "message": "any",
+        "message": "bu mu ci",
         "description": "label for any direction element in tilt direction picker for micro:bit extension"
     },
     "microbit.tiltDirectionMenu.back": {
-        "message": "back",
+        "message": "gannaaw",
         "description": "label for back element in tilt direction picker for micro:bit extension"
     },
     "microbit.tiltDirectionMenu.front": {
-        "message": "front",
+        "message": "kanam",
         "description": "label for front element in tilt direction picker for micro:bit extension"
     },
     "microbit.tiltDirectionMenu.left": {
-        "message": "left",
+        "message": "Càmmooñ",
         "description": "label for left element in tilt direction picker for micro:bit extension"
     },
     "microbit.tiltDirectionMenu.right": {
-        "message": "right",
+        "message": "nday-joor",
         "description": "label for right element in tilt direction picker for micro:bit extension"
     },
     "microbit.whenButtonPressed": {
@@ -352,11 +352,11 @@
         "description": "when the selected button on the micro:bit is pressed"
     },
     "microbit.whenGesture": {
-        "message": "when [GESTURE]",
+        "message": "saasu [GESTURE]",
         "description": "when the selected gesture is detected by the micro:bit"
     },
     "microbit.whenPinConnected": {
-        "message": "when pin [PIN] connected",
+        "message": "saasu pin [PIN] lënkoo",
         "description": "when the pin detects a connection to Earth/Ground"
     },
     "microbit.whenTilted": {
@@ -364,7 +364,7 @@
         "description": "when the micro:bit is tilted in a direction"
     },
     "music.categoryName": {
-        "message": "Music",
+        "message": "Mbuug",
         "description": "Label for the Music extension category"
     },
     "music.changeTempo": {
@@ -376,7 +376,7 @@
         "description": "Sound of bass drum as used in a standard drum kit"
     },
     "music.drumBongo": {
-        "message": "(13) Bongo",
+        "message": "(13) Tama",
         "description": "Sound of a bongo being struck"
     },
     "music.drumCabasa": {
@@ -580,19 +580,19 @@
         "description": "change the diameter of the trail left by a sprite"
     },
     "pen.clear": {
-        "message": "erase all",
+        "message": "far lépp",
         "description": "erase all pen trails and stamps"
     },
     "pen.colorMenu.brightness": {
-        "message": "brightness",
+        "message": "leeraay",
         "description": "label for brightness element in color picker for pen extension"
     },
     "pen.colorMenu.color": {
-        "message": "color",
+        "message": "wirgo",
         "description": "label for color element in color picker for pen extension"
     },
     "pen.colorMenu.saturation": {
-        "message": "saturation",
+        "message": "feesaay",
         "description": "label for saturation element in color picker for pen extension"
     },
     "pen.colorMenu.transparency": {
@@ -600,27 +600,27 @@
         "description": "label for transparency element in color picker for pen extension"
     },
     "pen.penDown": {
-        "message": "pen down",
+        "message": "xalima gi jëm suuf",
         "description": "start leaving a trail when the sprite moves"
     },
     "pen.penUp": {
-        "message": "pen up",
+        "message": "xalima gi jëm kaw",
         "description": "stop leaving a trail behind the sprite"
     },
     "pen.setColor": {
-        "message": "set pen color to [COLOR]",
+        "message": "def wirgo xalima gi muy [COLOR]",
         "description": "set the pen color to a particular (RGB) value"
     },
     "pen.setColorParam": {
-        "message": "set pen [COLOR_PARAM] to [VALUE]",
+        "message": "def xalima [COLOR_PARAM] muy [VALUE]",
         "description": "set the state for a pen color parameter e.g. saturation"
     },
     "pen.setHue": {
-        "message": "set pen color to [HUE]",
+        "message": "def wirgo xalima gi muy [HUE]",
         "description": "legacy pen blocks - set pen color to number"
     },
     "pen.setShade": {
-        "message": "set pen shade to [SHADE]",
+        "message": "def takk-ndeeru xalima gi muy [SHADE]",
         "description": "legacy pen blocks - set pen shade"
     },
     "pen.setSize": {
@@ -628,15 +628,15 @@
         "description": "set the diameter of a trail left by a sprite"
     },
     "pen.stamp": {
-        "message": "stamp",
+        "message": "wiñet",
         "description": "render current costume on the background"
     },
     "speech.defaultWhenIHearValue": {
-        "message": "let''s go",
+        "message": "Nanu dem",
         "description": "The default phrase/word that, when heard, triggers the event."
     },
     "speech.extensionName": {
-        "message": "Speech to Text",
+        "message": "Dawalal Mbind mi",
         "description": "Name of extension that adds speech recognition blocks."
     },
     "speech.listenAndWait": {
@@ -644,7 +644,7 @@
         "description": "Start listening to the microphone and wait for a result from the speech recognition system."
     },
     "speech.speechReporter": {
-        "message": "speech",
+        "message": "kàddu",
         "description": "Get the text of spoken words transcribed by the speech recognition system."
     },
     "speech.whenIHear": {
@@ -656,31 +656,31 @@
         "description": "Name for a voice with ambiguous gender."
     },
     "text2speech.categoryName": {
-        "message": "Text to Speech",
+        "message": "Mbind muy Kàddu",
         "description": "Name of the Text to Speech extension."
     },
     "text2speech.defaultTextToSpeak": {
-        "message": "hello",
+        "message": "Mbaa jàmm rekk!",
         "description": "hello: the default text to speak"
     },
     "text2speech.giant": {
-        "message": "giant",
+        "message": "Poõkal",
         "description": "Name for a funny voice with a low pitch."
     },
     "text2speech.kitten": {
-        "message": "kitten",
+        "message": "muus mu ndaw",
         "description": "A baby cat."
     },
     "text2speech.setLanguageBlock": {
-        "message": "set language to [LANGUAGE]",
+        "message": "def làkk wi muy [LANGUAGE]",
         "description": "Set the language for speech synthesis."
     },
     "text2speech.setVoiceBlock": {
-        "message": "set voice to [VOICE]",
+        "message": "def baat bi muy [VOICE]",
         "description": "Set the voice for speech synthesis."
     },
     "text2speech.speakAndWaitBlock": {
-        "message": "speak [WORDS]",
+        "message": "wax [WORDS]",
         "description": "Speak some words."
     },
     "text2speech.squeak": {
@@ -688,23 +688,23 @@
         "description": "Name for a funny voice with a high pitch."
     },
     "text2speech.tenor": {
-        "message": "tenor",
+        "message": "digg doomu",
         "description": "Name for a voice with ambiguous gender."
     },
     "translate.categoryName": {
-        "message": "Translate",
+        "message": "Tekki",
         "description": "Name of extension that adds translate blocks"
     },
     "translate.defaultTextToTranslate": {
-        "message": "hello",
+        "message": "Mbaa jàmm rekk!",
         "description": "hello: the default text to translate"
     },
     "translate.translateBlock": {
-        "message": "translate [WORDS] to [LANGUAGE]",
+        "message": "tekki [WORDS] ci [LANGUAGE]",
         "description": "translate some text to a different language"
     },
     "translate.viewerLanguage": {
-        "message": "language",
+        "message": "làkk",
         "description": "the languge of the project viewer"
     },
     "videoSensing.categoryName": {
@@ -720,11 +720,11 @@
         "description": "Attribute for the \"video [ATTRIBUTE] on [SUBJECT]\" block"
     },
     "videoSensing.off": {
-        "message": "off",
+        "message": "fay",
         "description": "Option for the \"turn video [STATE]\" block"
     },
     "videoSensing.on": {
-        "message": "on",
+        "message": "taal",
         "description": "Option for the \"turn video [STATE]\" block"
     },
     "videoSensing.onFlipped": {
@@ -736,11 +736,11 @@
         "description": "Controls transparency of the video preview layer"
     },
     "videoSensing.sprite": {
-        "message": "sprite",
+        "message": "njuuma",
         "description": "Subject for the \"video [ATTRIBUTE] on [SUBJECT]\" block"
     },
     "videoSensing.stage": {
-        "message": "stage",
+        "message": "pàkk bi",
         "description": "Subject for the \"video [ATTRIBUTE] on [SUBJECT]\" block"
     },
     "videoSensing.videoOn": {
@@ -756,7 +756,7 @@
         "description": "Event that triggers when the amount of motion is greater than [REFERENCE]"
     },
     "wedo2.getDistance": {
-        "message": "distance",
+        "message": "soriwaay",
         "description": "the value returned by the distance sensor"
     },
     "wedo2.getTiltAngle": {
@@ -768,15 +768,15 @@
         "description": "whether the tilt sensor is tilted"
     },
     "wedo2.motorDirection.backward": {
-        "message": "that way",
+        "message": "anam gee",
         "description": "label for backward element in motor direction menu for LEGO WeDo 2 extension"
     },
     "wedo2.motorDirection.forward": {
-        "message": "this way",
+        "message": "anam gii",
         "description": "label for forward element in motor direction menu for LEGO WeDo 2 extension"
     },
     "wedo2.motorDirection.reverse": {
-        "message": "reverse",
+        "message": "wëlbati",
         "description": "label for reverse element in motor direction menu for LEGO WeDo 2 extension"
     },
     "wedo2.motorId.a": {
@@ -824,23 +824,23 @@
         "description": "set the motor's power and turn it on"
     },
     "wedo2.tiltDirection.any": {
-        "message": "any",
+        "message": "bu mu ci",
         "description": "label for any element in tilt direction menu for LEGO WeDo 2 extension"
     },
     "wedo2.tiltDirection.down": {
-        "message": "down",
+        "message": "suuf",
         "description": "label for down element in tilt direction menu for LEGO WeDo 2 extension"
     },
     "wedo2.tiltDirection.left": {
-        "message": "left",
+        "message": "càmmooñ",
         "description": "label for left element in tilt direction menu for LEGO WeDo 2 extension"
     },
     "wedo2.tiltDirection.right": {
-        "message": "right",
+        "message": "nday-joor",
         "description": "label for right element in tilt direction menu for LEGO WeDo 2 extension"
     },
     "wedo2.tiltDirection.up": {
-        "message": "up",
+        "message": "gaw",
         "description": "label for up element in tilt direction menu for LEGO WeDo 2 extension"
     },
     "wedo2.whenDistance": {
