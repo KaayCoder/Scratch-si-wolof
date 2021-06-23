@@ -32,11 +32,11 @@
         "description": "Label for sprite backpack item"
     },
     "gui.backpack.header": {
-        "message": "Backpack",
+        "message": "Ngise",
         "description": "Button to open the backpack"
     },
     "gui.backpack.errorBackpack": {
-        "message": "Error loading backpack",
+        "message": "Njuumte ci wàcce ngise gi",
         "description": "Error backpack message"
     },
     "gui.backpack.loadingBackpack": {
@@ -48,7 +48,7 @@
         "description": "Load more from backpack"
     },
     "gui.backpack.emptyBackpack": {
-        "message": "Backpack is empty",
+        "message": "Ngise gi daa widd",
         "description": "Empty backpack message"
     },
     "gui.unsupportedBrowser.label": {
@@ -56,7 +56,7 @@
         "description": ""
     },
     "gui.unsupportedBrowser.errorLabel": {
-        "message": "An Error Occurred",
+        "message": "Ag Njuumte Amna",
         "description": "Heading shown when there is an unhandled exception in an unsupported browser"
     },
     "gui.unsupportedBrowser.notRecommended": {
@@ -78,38 +78,6 @@
     "gui.unsupportedBrowser.previewfaqlinktext": {
         "message": "FAQ",
         "description": "link to Scratch 3.0 FAQ page"
-    },
-    "gui.cameraModal.cameraModalTitle": {
-        "message": "Jël ab Nataal",
-        "description": "Title for prompt to take a picture (to add as a new costume)."
-    },
-    "gui.cameraModal.loadingCameraMessage": {
-        "message": "Loading Camera...",
-        "description": "Notification to the user that the camera is loading"
-    },
-    "gui.cameraModal.permissionRequest": {
-        "message": "Danoo soxlawoo sa ndigal ngir jëfëndikoo sa \"Camera\"",
-        "description": "Notification to the user that the app needs camera access"
-    },
-    "gui.cameraModal.retakePhoto": {
-        "message": "Jëlaat Nataal",
-        "description": "A button that allows the user to take the picture again, replacing the old one"
-    },
-    "gui.cameraModal.save": {
-        "message": "Denc",
-        "description": "A button that allows the user to save the photo they took as a costume"
-    },
-    "gui.cameraModal.takePhoto": {
-        "message": "Jël Nataal",
-        "description": "A button to take a photo"
-    },
-    "gui.cameraModal.loadingCaption": {
-        "message": "Wàcc...",
-        "description": "A caption for a disabled button while the video from the camera is still loading"
-    },
-    "gui.cameraModal.enableCameraCaption": {
-        "message": "Enable Camera",
-        "description": "A caption for a disabled button prompting the user to enable camera access"
     },
     "gui.cards.all-tutorials": {
         "message": "Njàngale",
@@ -164,7 +132,7 @@
         "description": "Button in prompt for starting a search"
     },
     "gui.connection.connecting-searchbutton": {
-        "message": "Searching...",
+        "message": "Seet...",
         "description": "Label indicating that search is in progress"
     },
     "gui.connection.auto-scanning.try-again": {
@@ -172,15 +140,15 @@
         "description": "Button in prompt for trying a device search again"
     },
     "gui.connection.connected": {
-        "message": "Connected",
+        "message": "Lënku",
         "description": "Message indicating that a device was connected"
     },
     "gui.connection.disconnect": {
-        "message": "Disconnect",
+        "message": "Linkiku",
         "description": "Button to disconnect the device"
     },
     "gui.connection.go-to-editor": {
-        "message": "Go to Editor",
+        "message": "Dem ci defarukaay bi",
         "description": "Button to return to the editor"
     },
     "gui.connection.connecting-cancelbutton": {
@@ -224,31 +192,31 @@
         "description": "Button in prompt for starting a search"
     },
     "gui.connection.unavailable.installscratchlink": {
-        "message": "Make sure you have Scratch Link installed and running",
+        "message": "Wérlul ne wàcce nga Scratch  buy dox ",
         "description": "Message for getting Scratch Link installed"
     },
     "gui.connection.unavailable.enablebluetooth": {
-        "message": "Check that Bluetooth is enabled",
+        "message": "Xoolal baxam bluetooth bi tàkk na",
         "description": "Message for making sure Bluetooth is enabled"
     },
     "gui.connection.unavailable.tryagainbutton": {
-        "message": "Try again",
+        "message": "Jéemaatal",
         "description": "Button to initiate trying the device connection again after an error"
     },
     "gui.connection.unavailable.helpbutton": {
-        "message": "Help",
+        "message": "Ndimbal",
         "description": "Button to view help content"
     },
     "gui.controls.go": {
-        "message": "Go",
+        "message": "Door",
         "description": "Green flag button title"
     },
     "gui.controls.stop": {
-        "message": "Stop",
+        "message": "Taxawal",
         "description": "Stop button title"
     },
     "gui.crashMessage.label": {
-        "message": "Oops! Something went wrong.",
+        "message": "Ups, amna lu jaarul yoon.",
         "description": "Crash Message title"
     },
     "gui.crashMessage.description": {
@@ -292,7 +260,7 @@
         "description": "Label for checkbox to run without screen refresh"
     },
     "gui.customProcedures.cancel": {
-        "message": "Cancel",
+        "message": "Bàyyi",
         "description": "Label for button to cancel custom procedure edits"
     },
     "gui.customProcedures.ok": {
@@ -300,23 +268,23 @@
         "description": "Label for button to save new custom procedure"
     },
     "gui.SpriteInfo.direction": {
-        "message": "Direction",
+        "message": "Jublu",
         "description": "Sprite info direction label"
     },
     "gui.directionPicker.rotationStyles.allAround": {
-        "message": "All Around",
+        "message": "Lépp wër",
         "description": "Button to change to the all around rotation style"
     },
     "gui.directionPicker.rotationStyles.leftRight": {
-        "message": "Left/Right",
+        "message": "Càmmooñ/Dayjoor",
         "description": "Button to change to the left-right rotation style"
     },
     "gui.directionPicker.rotationStyles.dontRotate": {
-        "message": "Do not rotate",
+        "message": "Bul wëndeelu",
         "description": "Button to change to the dont rotate rotation style"
     },
     "gui.gui.addExtension": {
-        "message": "Add Extension",
+        "message": "Yokk ndollen",
         "description": "Button to add an extension in the target pane"
     },
     "gui.gui.codeTab": {
@@ -324,19 +292,19 @@
         "description": "Button to get to the code panel"
     },
     "gui.gui.backdropsTab": {
-        "message": "Backdrops",
+        "message": "Njiitlaay yi",
         "description": "Button to get to the backdrops panel"
     },
     "gui.gui.costumesTab": {
-        "message": "Costumes",
+        "message": "Colka yi",
         "description": "Button to get to the costumes panel"
     },
     "gui.gui.soundsTab": {
-        "message": "Ay way",
+        "message": "Way yi",
         "description": "Button to get to the sounds panel"
     },
     "gui.extensionLibrary.comingSoon": {
-        "message": "Coming Soon",
+        "message": "Balaa yàgg",
         "description": "Label for extensions that are not yet implemented"
     },
     "gui.extensionLibrary.requires": {
@@ -356,7 +324,7 @@
         "description": "Label for library tag to revert to all items after filtering by tag."
     },
     "gui.loader.message1": {
-        "message": "Creating blocks …",
+        "message": "Sos ay Say …",
         "description": "One of the loading messages"
     },
     "gui.loader.message2": {
@@ -436,7 +404,7 @@
         "description": "Label for login password input"
     },
     "general.signIn": {
-        "message": "Sign in",
+        "message": "Lënku",
         "description": "Button text for user to sign in"
     },
     "login.needHelp": {
@@ -480,7 +448,7 @@
         "description": "Menu bar item for saving as a copy"
     },
     "gui.menuBar.remix": {
-        "message": "Remix",
+        "message": "Miksewaat",
         "description": "Menu bar item for remixing"
     },
     "gui.menuBar.new": {
@@ -496,27 +464,27 @@
         "description": "Menu bar item for downloading a project to your computer"
     },
     "gui.menuBar.edit": {
-        "message": "Edit",
+        "message": "Defar",
         "description": "Text for edit dropdown menu"
     },
     "gui.menuBar.turboModeOff": {
-        "message": "Turn off Turbo Mode",
+        "message": "Fay modd Turbo bi",
         "description": "Menu bar item for turning off turbo mode"
     },
     "gui.menuBar.turboModeOn": {
-        "message": "Turn on Turbo Mode",
+        "message": "Taal modd turbo bi",
         "description": "Menu bar item for turning on turbo mode"
     },
     "gui.menuBar.joinScratch": {
-        "message": "Join Scratch",
+        "message": "Jokk ci Scratch",
         "description": "Link for creating a Scratch account"
     },
     "gui.menuBar.signIn": {
-        "message": "Sign in",
+        "message": "Lënku",
         "description": "Link for signing in to your Scratch account"
     },
     "gui.gui.projectTitlePlaceholder": {
-        "message": "Project title here",
+        "message": "Turu naal bi fii",
         "description": "Placeholder for project title when blank"
     },
     "gui.menuBar.saveNowLink": {
@@ -524,11 +492,11 @@
         "description": "Title bar link for saving now"
     },
     "gui.menuBar.isShared": {
-        "message": "Shared",
+        "message": "Seddalees nako",
         "description": "Label for shared project"
     },
     "gui.menuBar.share": {
-        "message": "Share",
+        "message": "Seddale",
         "description": "Label for project share button"
     },
     "gui.modal.help": {
@@ -540,31 +508,31 @@
         "description": "Back button in modal"
     },
     "gui.monitor.listMonitor.empty": {
-        "message": "(empty)",
+        "message": "(widd)",
         "description": "Text shown on a list monitor when a list is empty"
     },
     "gui.monitor.listMonitor.listLength": {
-        "message": "length {length}",
+        "message": "guddaay {length}",
         "description": "Length label on list monitors. DO NOT translate {length} (with brackets)."
     },
     "gui.monitor.contextMenu.default": {
-        "message": "normal readout",
+        "message": "birël  bu yam",
         "description": "Menu item to switch to the default monitor"
     },
     "gui.monitor.contextMenu.large": {
-        "message": "large readout",
+        "message": "birël ci kaw",
         "description": "Menu item to switch to the large monitor"
     },
     "gui.monitor.contextMenu.slider": {
-        "message": "slider",
+        "message": "way-diriku",
         "description": "Menu item to switch to the slider monitor"
     },
     "gui.monitor.contextMenu.sliderRange": {
-        "message": "change slider range",
+        "message": "soppi toftaleg way-diriku",
         "description": "Menu item to change the slider range"
     },
     "gui.monitor.contextMenu.import": {
-        "message": "import",
+        "message": "Jéggaani",
         "description": "Menu item to import into list monitors"
     },
     "gui.monitor.contextMenu.export": {
@@ -572,7 +540,7 @@
         "description": "Menu item to export from list monitors"
     },
     "gui.playButton.play": {
-        "message": "Play",
+        "message": "Doxal",
         "description": "Title of the button to start playing the sound"
     },
     "gui.playButton.stop": {
@@ -580,11 +548,11 @@
         "description": "Title of the button to stop the sound"
     },
     "gui.gui.variableScopeOptionAllSprites": {
-        "message": "For all sprites",
+        "message": "Ci njuuma yépp",
         "description": "Option message when creating a variable for making it available to all sprites"
     },
     "gui.gui.variableScopeOptionSpriteOnly": {
-        "message": "For this sprite only",
+        "message": "Ci njuuma  lii rekk",
         "description": "Option message when creating a varaible for making it only available to the current sprite"
     },
     "gui.gui.cloudVariableOption": {
@@ -592,11 +560,11 @@
         "description": "Option message when creating a variable for making it a cloud variable, a variable that is stored on the server"
     },
     "gui.gui.variablePromptAllSpritesMessage": {
-        "message": "This variable will be available to all sprites.",
+        "message": "Njuuma yépp a joti ci dencukaay bi",
         "description": "A message that displays in a variable modal when the stage is selected indicating that the variable being created will available to all sprites."
     },
     "gui.prompt.cancel": {
-        "message": "Cancel",
+        "message": "Bàyyi",
         "description": "Button in prompt for cancelling the dialog"
     },
     "gui.prompt.ok": {
@@ -604,19 +572,19 @@
         "description": "Button in prompt for confirming the dialog"
     },
     "gui.playbackStep.stopMsg": {
-        "message": "Stop",
+        "message": "Taxawal",
         "description": "Stop/Play button in recording playback"
     },
     "gui.playbackStep.playMsg": {
-        "message": "Play",
+        "message": "Door",
         "description": "Stop/Play button in recording playback"
     },
     "gui.playbackStep.loadingMsg": {
-        "message": "Loading...",
+        "message": "Wàcc...",
         "description": "Loading/Save button in recording playback"
     },
     "gui.playbackStep.saveMsg": {
-        "message": "Save",
+        "message": "Denc",
         "description": "Loading/Save button in recording playback"
     },
     "gui.playbackStep.reRecordMsg": {
@@ -652,11 +620,11 @@
         "description": "Label of slider modal"
     },
     "gui.sliderModal.title": {
-        "message": "Change slider range",
+        "message": "Soppi toftaleg way-diriku",
         "description": "Title of slider modal"
     },
     "gui.sliderPrompt.cancel": {
-        "message": "Cancel",
+        "message": "Bàyyi",
         "description": "Button in prompt for cancelling the dialog"
     },
     "gui.sliderPrompt.ok": {
@@ -664,27 +632,27 @@
         "description": "Button in prompt for confirming the dialog"
     },
     "gui.soundEditor.sound": {
-        "message": "Sound",
+        "message": "Way",
         "description": "Label for the name of the sound"
     },
     "gui.soundEditor.play": {
-        "message": "Play",
+        "message": "Door",
         "description": "Title of the button to start playing the sound"
     },
     "gui.soundEditor.stop": {
-        "message": "Stop",
+        "message": "Taxawal",
         "description": "Title of the button to stop the sound"
     },
     "gui.soundEditor.copy": {
-        "message": "Copy",
+        "message": "Sotti",
         "description": "Title of the button to copy the sound"
     },
     "gui.soundEditor.paste": {
-        "message": "Paste",
+        "message": "Taf",
         "description": "Title of the button to paste the sound"
     },
     "gui.soundEditor.copyToNew": {
-        "message": "Copy to New",
+        "message": "Sotti fu bees",
         "description": "Title of the button to copy the selection into a new sound"
     },
     "gui.soundEditor.delete": {
@@ -752,11 +720,11 @@
         "description": "Sprite info label"
     },
     "gui.SpriteInfo.show": {
-        "message": "Show",
+        "message": "Feeñal",
         "description": "Sprite info show label"
     },
     "gui.SpriteInfo.size": {
-        "message": "Size",
+        "message": "Tolluwaay",
         "description": "Sprite info size label"
     },
     "gui.spriteSelectorItem.contextMenuDuplicate": {
@@ -772,7 +740,7 @@
         "description": "Menu item to delete in the right click menu"
     },
     "gui.spriteSelector.addSpriteFromLibrary": {
-        "message": "Choose a Sprite",
+        "message": "Tànn njuuma",
         "description": "Button to add a sprite in the target pane from library"
     },
     "gui.spriteSelector.addSpriteFromPaint": {
@@ -780,7 +748,7 @@
         "description": "Button to add a sprite in the target pane from paint"
     },
     "gui.spriteSelector.addSpriteFromSurprise": {
-        "message": "Surprise",
+        "message": "Bette",
         "description": "Button to add a random sprite in the target pane"
     },
     "gui.spriteSelector.addSpriteFromFile": {
@@ -816,7 +784,7 @@
         "description": "Button to add a stage in the target pane from paint"
     },
     "gui.stageSelector.addBackdropFromSurprise": {
-        "message": "Surprise",
+        "message": "Bette",
         "description": "Button to add a random stage in the target pane"
     },
     "gui.stageSelector.addBackdropFromFile": {
@@ -824,11 +792,11 @@
         "description": "Button to add a stage in the target pane from file"
     },
     "gui.stageSelector.stage": {
-        "message": "Stage",
+        "message": "Pàkk bi",
         "description": "Label for the stage in the stage selector"
     },
     "gui.stageSelector.backdrops": {
-        "message": "Backdrops",
+        "message": "Njiitlaay",
         "description": "Label for the backdrops in the stage selector"
     },
     "gui.telemetryOptIn.label": {
@@ -876,7 +844,7 @@
         "description": "Label indicating turbo mode is active"
     },
     "gui.webglModal.label": {
-        "message": "Your Browser Does Not Support WebGL",
+        "message": "Joowukaay gii mënul a doxal WebGl",
         "description": "WebGL missing title"
     },
     "gui.webglModal.description": {
@@ -931,10 +899,6 @@
         "message": "Upload Costume",
         "description": "Button to add a costume by uploading a file in the editor tab"
     },
-    "gui.costumeTab.addCameraCostume": {
-        "message": "Camera",
-        "description": "Button to use the camera to create a costume costume in the editor tab"
-    },
     "gui.extensionLibrary.chooseAnExtension": {
         "message": "Choose an Extension",
         "description": "Heading for the extension library"
@@ -960,7 +924,7 @@
         "description": "Button to upload sound from file in the editor tab"
     },
     "gui.soundTab.surpriseSound": {
-        "message": "Surprise",
+        "message": "Bette",
         "description": "Button to get a random sound in the editor tab"
     },
     "gui.soundTab.recordSound": {
@@ -968,11 +932,11 @@
         "description": "Button to record a sound in the editor tab"
     },
     "gui.soundTab.addSoundFromLibrary": {
-        "message": "Choose a Sound",
+        "message": "Tànn aw way",
         "description": "Button to add a sound in the editor tab"
     },
     "gui.spriteLibrary.chooseASprite": {
-        "message": "Choose a Sprite",
+        "message": "Tànn njuuma",
         "description": "Heading for the sprite library"
     },
     "gui.tipsLibrary.tutorials": {
@@ -980,11 +944,11 @@
         "description": "Heading for the help/tutorials library"
     },
     "gui.alerts.createsuccess": {
-        "message": "New project created.",
+        "message": "Naal bu bees sosu na.",
         "description": "Message indicating that project was successfully created"
     },
     "gui.alerts.createcopysuccess": {
-        "message": "Project saved as a copy.",
+        "message": "Denc nañ naal bi ni ki ab sotti.",
         "description": "Message indicating that project was successfully created"
     },
     "gui.alerts.createremixsuccess": {

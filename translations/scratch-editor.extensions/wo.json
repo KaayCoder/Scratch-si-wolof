@@ -348,7 +348,7 @@
         "description": "label for right element in tilt direction picker for micro:bit extension"
     },
     "microbit.whenButtonPressed": {
-        "message": "when [BTN] button pressed",
+        "message": "saasu [BTN] bitoŋ bi bésoo",
         "description": "when the selected button on the micro:bit is pressed"
     },
     "microbit.whenGesture": {
@@ -640,7 +640,7 @@
         "description": "Name of extension that adds speech recognition blocks."
     },
     "speech.listenAndWait": {
-        "message": "listen and wait",
+        "message": "dégglu te xaar",
         "description": "Start listening to the microphone and wait for a result from the speech recognition system."
     },
     "speech.speechReporter": {
@@ -648,7 +648,7 @@
         "description": "Get the text of spoken words transcribed by the speech recognition system."
     },
     "speech.whenIHear": {
-        "message": "when I hear [PHRASE]",
+        "message": "saasu ma déggee [PHRASE]",
         "description": "Event that triggers when the text entered on the block is recognized by the speech recognition system."
     },
     "text2speech.alto": {
