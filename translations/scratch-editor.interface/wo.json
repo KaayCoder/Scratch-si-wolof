@@ -108,7 +108,7 @@
         "description": "One of the \"coming soon\" random messages for yet-to-be-done features"
     },
     "gui.comingSoon.message2": {
-        "message": "Mi gi ñëwaat...",
+        "message": "Mi ngi ñëwaat...",
         "description": "One of the \"coming soon\" random messages for yet-to-be-done features"
     },
     "gui.comingSoon.message3": {
@@ -192,7 +192,7 @@
         "description": "Button in prompt for starting a search"
     },
     "gui.connection.unavailable.installscratchlink": {
-        "message": "Wérlul ne wàcce nga Scratch  buy dox ",
+        "message": "Wérlul ne wàcce nga Scratch  buy dox",
         "description": "Message for getting Scratch Link installed"
     },
     "gui.connection.unavailable.enablebluetooth": {
@@ -220,11 +220,11 @@
         "description": "Crash Message title"
     },
     "gui.crashMessage.description": {
-        "message": "We are so sorry, but it looks like Scratch has crashed. This bug has been automatically reported to the Scratch Team. Please refresh your page to try again.",
+        "message": "Noo ngi jéggalu, Dafa melni Scratch doxatul. Bug bii yonnee nanu ko waa Scratch. Noo ngi lay ñaan nga yeesal xët wi ngir jéemaat.",
         "description": "Message to inform the user that page has crashed."
     },
     "gui.crashMessage.errorNumber": {
-        "message": "Your error was logged with id {errorId}",
+        "message": "Sa jafe-jafe bi denci nanu ko ak xàmmeekaay {errorId}",
         "description": "Message to inform the user that page has crashed."
     },
     "gui.crashMessage.reload": {
@@ -240,7 +240,7 @@
         "description": "Label for button to add a number/text input"
     },
     "gui.customProcedures.numberTextType": {
-        "message": "number or text",
+        "message": "limat walla bind xët",
         "description": "Description of the number/text input type"
     },
     "gui.customProcedures.addAnInputBoolean": {
@@ -384,7 +384,7 @@
         "description": "Text to link to my account settings, in the account navigation menu"
     },
     "gui.accountMenu.signOut": {
-        "message": "Sign out",
+        "message": "Géenn",
         "description": "Text to link to sign out, in the account navigation menu"
     },
     "gui.authorInfo.byUser": {
@@ -496,7 +496,7 @@
         "description": "Label for shared project"
     },
     "gui.menuBar.share": {
-        "message": "Seddale",
+        "message": "Tasaare",
         "description": "Label for project share button"
     },
     "gui.modal.help": {
@@ -504,7 +504,7 @@
         "description": "Help button in modal"
     },
     "gui.modal.back": {
-        "message": "Kannaaw",
+        "message": "gannaaw",
         "description": "Back button in modal"
     },
     "gui.monitor.listMonitor.empty": {
