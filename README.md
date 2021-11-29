@@ -1,24 +1,39 @@
-# Scratch-si-wolof
-Traduire Scratch en Wolof
+# Scratch Si Wolof
+Traduire [Scratch](https://scratch.mit.edu) en [Wolof](https://fr.wikipedia.org/wiki/Wolof_(langue))
 
 ![GitHub Logo](assets/img/intro.png)
 
+## Progression
+
+![GitHub Logo](assets/img/progress.png)
+
 ## Rejoindre l'équipe
+
 Vous avez une bonne maîtrise de scratch et du Wolof, parler Anglais ou Français. Rejoignez-nous
 
-<ol>
-    <li>Inscrivez-vous ici https://www.transifex.com/</li>
-    <li>Rejoignez l’équipe Scratch</li>
-    <li>Rejoindre la traduction en wolof</li>
-</ol>
+1. Inscrivez-vous ici https://www.transifex.com
+2. Rejoignez l’équipe [Scratch](https://www.transifex.com/llk/scratch-editor/dashboard/)
+3. [Rejoindre la traduction en wolof](https://www.transifex.com/llk/teams/60938/wo/)
+
+### Discuter avec l'équipe
+
+- [Kaay Waxtan!](https://github.com/KaayCoder/Scratch-si-wolof/discussions)
+- Nous sommes sur [Telegram](https://t.me/+EyZVh0dPsSfhdVwm) n'hésitez pas à venir discuter avec les membres de l'équipe.
+
+## Document de Référence
+
+Nous recommandons les documents suivant pour vous aidr dans l'écriture de la langue wolof
+
+* [Dictionnaire wolof-français et français-wolof](https://books.google.sn/books?id=gJ8YBgAAQBAJ&hl=fr)
+* [Dictionnaire français-wolof et français-bambara, suivi du dictionnaire wolof-français](https://books.google.sn/books?id=HqoFAAAAQAAJ&hl=fr)
 
 ## Traduction
 
 ### En ligne
-Vous pouvez traduire en ligne sur [transifex.com](https://www.transifex.com/)
+Nous vous recommandons de traduire en ligne sur [transifex.com](https://www.transifex.com/)
 
 ### Locale
-Avec l'aide Transifex CLI vous pouvez traduire en locale.
+Avec l'aide [Transifex CLI](https://docs.transifex.com/client/introduction), vous pouvez traduire en locale, mais cette méthode n'est pas la plus simple.
 
 **Installation Transifex CLI**
 
@@ -88,27 +103,23 @@ npm run recover
 ```
 npm run push
 ```
-
-
-## Document de Référence
-Nous recommandons les documents suivant pour vous aidr dans l'écriture de la langue wolof
-
-* [Dictionnaire wolof-français et français-wolof](https://books.google.sn/books?id=gJ8YBgAAQBAJ&hl=fr)
-* [Dictionnaire français-wolof et français-bambara, suivi du dictionnaire wolof-français](https://books.google.sn/books?id=HqoFAAAAQAAJ&hl=fr)
-
 ## Contribuer
 
 Lisez s'il vous plait [CONTRIBUTING.md](CONTRIBUTING.md) pour plus de détails sur notre code de conduite et le processus de soumission des demandes de contribution.
 
-## contributeurs
+## Contributeurs
 
-* [Thierno DIOP](https://github.com/geekdiop)
-* [Akhmadou Ndiaye](https://github.com/0SansNom)
-* Votant des sondages sur le compte twitter [@kaaycoder](https://twitter.com/kaaycoder)
+### Traducteurs
 
-## Auteurs
+* [Akhmadou Ndiaye](https://github.com/0SansNom) - [0SansNom](https://www.transifex.com/user/profile/0SansNom/)
+* [Thierno DIOP](https://github.com/geekdiop) - [g33kdiop](https://www.transifex.com/user/profile/g33kdiop/)
+* Papa Sega Wade - [papasega](https://www.transifex.com/user/profile/papasega/)
+* Votant des sondages sur le compte twitter - [@kaaycoder](https://twitter.com/kaaycoder)
+* Ousseynou Diop - [xarala221](https://www.transifex.com/user/profile/papasega/)
 
-* **Mamadou Diagne** - [Genova](https://github.com/genova)
+### Réviseur
+
+* [Mamadou Diagne](https://github.com/genova) - [Genova](https://www.transifex.com/user/profile/genova/)
 
 ## Licence
 
