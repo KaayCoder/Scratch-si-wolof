@@ -1019,6 +1019,10 @@
         "message": "Click the green flag to start",
         "description": "Step name for 'Add A Green Flag' step"
     },
+    "gui.howtos.intro-getting-started-ASL.name": {
+        "message": "Getting Started - ASL",
+        "description": "Name for the 'Getting Started ASL (American Sign Language)' how-to"
+    },
     "gui.howtos.animate-a-name.name": {
         "message": "Animate a Name",
         "description": "Name for the 'Animate a Name' how-to"
