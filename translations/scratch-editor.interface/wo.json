@@ -108,7 +108,7 @@
         "description": "One of the \"coming soon\" random messages for yet-to-be-done features"
     },
     "gui.comingSoon.message2": {
-        "message": "Mi ngi ñëwaat...",
+        "message": "Mi gi ñëwaat...",
         "description": "One of the \"coming soon\" random messages for yet-to-be-done features"
     },
     "gui.comingSoon.message3": {
@@ -192,7 +192,7 @@
         "description": "Button in prompt for starting a search"
     },
     "gui.connection.unavailable.installscratchlink": {
-        "message": "Wérlul ne wàcce nga Scratch  buy dox",
+        "message": "Wérlul ne wàcce nga Scratch  buy dox ",
         "description": "Message for getting Scratch Link installed"
     },
     "gui.connection.unavailable.enablebluetooth": {
@@ -220,11 +220,11 @@
         "description": "Crash Message title"
     },
     "gui.crashMessage.description": {
-        "message": "Noo ngi jéggalu, Dafa melni Scratch doxatul. Bug bii yonnee nanu ko waa Scratch. Noo ngi lay ñaan nga yeesal xët wi ngir jéemaat.",
+        "message": "We are so sorry, but it looks like Scratch has crashed. This bug has been automatically reported to the Scratch Team. Please refresh your page to try again.",
         "description": "Message to inform the user that page has crashed."
     },
     "gui.crashMessage.errorNumber": {
-        "message": "Sa jafe-jafe bi denci nanu ko ak xàmmeekaay {errorId}",
+        "message": "Your error was logged with id {errorId}",
         "description": "Message to inform the user that page has crashed."
     },
     "gui.crashMessage.reload": {
@@ -240,7 +240,7 @@
         "description": "Label for button to add a number/text input"
     },
     "gui.customProcedures.numberTextType": {
-        "message": "limat walla bind xët",
+        "message": "number or text",
         "description": "Description of the number/text input type"
     },
     "gui.customProcedures.addAnInputBoolean": {
@@ -384,7 +384,7 @@
         "description": "Text to link to my account settings, in the account navigation menu"
     },
     "gui.accountMenu.signOut": {
-        "message": "Géenn",
+        "message": "Sign out",
         "description": "Text to link to sign out, in the account navigation menu"
     },
     "gui.authorInfo.byUser": {
@@ -496,7 +496,7 @@
         "description": "Label for shared project"
     },
     "gui.menuBar.share": {
-        "message": "Tasaare",
+        "message": "Seddale",
         "description": "Label for project share button"
     },
     "gui.modal.help": {
@@ -504,7 +504,7 @@
         "description": "Help button in modal"
     },
     "gui.modal.back": {
-        "message": "gannaaw",
+        "message": "Kannaaw",
         "description": "Back button in modal"
     },
     "gui.monitor.listMonitor.empty": {
@@ -539,6 +539,10 @@
         "message": "export",
         "description": "Menu item to export from list monitors"
     },
+    "gui.monitor.contextMenu.hide": {
+        "message": "nëbbal",
+        "description": "Menu item to hide the monitor"
+    },
     "gui.playButton.play": {
         "message": "Doxal",
         "description": "Title of the button to start playing the sound"
@@ -562,6 +566,10 @@
     "gui.gui.variablePromptAllSpritesMessage": {
         "message": "Njuuma yépp a joti ci dencukaay bi",
         "description": "A message that displays in a variable modal when the stage is selected indicating that the variable being created will available to all sprites."
+    },
+    "gui.gui.listPromptAllSpritesMessage": {
+        "message": "This list will be available to all sprites.",
+        "description": "A message that displays in a list modal when the stage is selected indicating that the list being created will available to all sprites."
     },
     "gui.prompt.cancel": {
         "message": "Bàyyi",
@@ -784,7 +792,7 @@
         "description": "Button to add a stage in the target pane from paint"
     },
     "gui.stageSelector.addBackdropFromSurprise": {
-        "message": "Bette",
+        "message": "Surprise",
         "description": "Button to add a random stage in the target pane"
     },
     "gui.stageSelector.addBackdropFromFile": {
@@ -1002,6 +1010,30 @@
     "gui.defaultProject.variable": {
         "message": "my variable",
         "description": "Name for the default variable"
+    },
+    "gui.menuBar.modeMenu": {
+        "message": "Mode",
+        "description": "Mode menu item in the menu bar"
+    },
+    "gui.menuBar.normalMode": {
+        "message": "Normal mode",
+        "description": "April fools: resets editor to not have any pranks"
+    },
+    "gui.menuBar.caturdayMode": {
+        "message": "Caturday mode",
+        "description": "April fools: Cat blocks mode"
+    },
+    "gui.menuBar.1990sMode": {
+        "message": "90s mode",
+        "description": "April fools: Makes the editor look like the 1990s"
+    },
+    "gui.menuBar.oldTimeyMode": {
+        "message": "Old timey mode",
+        "description": "April fools: Makes the editor look like an old movie projector"
+    },
+    "gui.menuBar.prehistoricMode": {
+        "message": "Prehistoric mode",
+        "description": "April fools: Makes the editor look like inside a cave"
     },
     "gui.howtos.intro-move-sayhello-hat.name": {
         "message": "Getting Started",
@@ -1832,7 +1864,7 @@
         "description": "Tag for filtering a library for loops"
     },
     "gui.libraryTags.music": {
-        "message": "Mbuug",
+        "message": "Music",
         "description": "Tag for filtering a library for music"
     },
     "gui.libraryTags.notes": {
