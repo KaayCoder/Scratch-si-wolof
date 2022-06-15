@@ -28,11 +28,11 @@
         "description": "the color yellow"
     },
     "boost.getMotorPosition": {
-        "message": "motor [MOTOR_REPORTER_ID] position",
+        "message": "motëër bi [MOTOR_REPORTER_ID] taxawaay",
         "description": "the position returned by the motor"
     },
     "boost.getTiltAngle": {
-        "message": "tilt angle [TILT_DIRECTION]",
+        "message": "turu koñ [TILT_DIRECTION]",
         "description": "the angle returned by the tilt sensor"
     },
     "boost.motorDirection.backward": {
@@ -48,27 +48,27 @@
         "description": "label for reverse element in motor direction menu for LEGO Boost extension"
     },
     "boost.motorOff": {
-        "message": "turn motor [MOTOR_ID] off",
+        "message": "fay motëër [MOTOR_ID] bi",
         "description": "turn a motor off"
     },
     "boost.motorOn": {
-        "message": "turn motor [MOTOR_ID] on",
+        "message": "taal motëër [MOTOR_ID] bi",
         "description": "turn a motor on indefinitely"
     },
     "boost.motorOnFor": {
-        "message": "turn motor [MOTOR_ID] for [DURATION] seconds",
+        "message": "taal motëër bi  [MOTOR_ID] diiru [DURATION] saa",
         "description": "turn a motor on for some time"
     },
     "boost.motorOnForRotation": {
-        "message": "turn motor [MOTOR_ID] for [ROTATION] rotations",
+        "message": "wëlbati motëër bi [MOTOR_ID] ci [ROTATION] wëlbatiku",
         "description": "turn a motor on for rotation"
     },
     "boost.seeingColor": {
-        "message": "seeing [COLOR] brick?",
+        "message": "gis [COLOR] brik?",
         "description": "is the color sensor seeing a certain color?"
     },
     "boost.setLightHue": {
-        "message": "set light color to [HUE]",
+        "message": "def wirgo wu leer wi  [HUE]",
         "description": "set the LED color"
     },
     "boost.setMotorDirection": {
@@ -100,19 +100,19 @@
         "description": "label for up element in tilt direction menu for LEGO Boost extension"
     },
     "boost.whenColor": {
-        "message": "when [COLOR] brick seen",
+        "message": "su [COLOR] brik feeñee",
         "description": "check for when color"
     },
     "boost.whenTilted": {
-        "message": "when tilted [TILT_DIRECTION_ANY]",
+        "message": "su tuddee [TILT_DIRECTION_ANY]",
         "description": "check when tilted in a certain direction"
     },
     "ev3.beepNote": {
-        "message": "beep note [NOTE] for [TIME] secs",
+        "message": "notu bip gi [NOTE] diiru [TIME] saa",
         "description": "play some note on EV3 for some time"
     },
     "ev3.buttonPressed": {
-        "message": "button [PORT] pressed?",
+        "message": "bitoŋ bi [PORT] bësoo?",
         "description": "is a button on some port pressed?"
     },
     "ev3.getBrightness": {
@@ -124,19 +124,19 @@
         "description": "gets measured distance"
     },
     "ev3.getMotorPosition": {
-        "message": "motor [PORT] position",
+        "message": "motëër[PORT] taxawaay",
         "description": "get the measured degrees a motor has turned"
     },
     "ev3.motorSetPower": {
-        "message": "motor [PORT] set power [POWER] %",
+        "message": "motëër [PORT] def doole ji [POWER] %",
         "description": "set a motor's power to some value"
     },
     "ev3.motorTurnClockwise": {
-        "message": "motor [PORT] turn this way for [TIME] seconds",
+        "message": "motëër [PORT] wëlbati ci wet gii [TIME] saa",
         "description": "turn a motor clockwise for some time"
     },
     "ev3.motorTurnCounterClockwise": {
-        "message": "motor [PORT] turn that way for [TIME] seconds",
+        "message": "motëër [PORT] wëlbati wet gee [TIME] saa",
         "description": "turn a motor counter-clockwise for some time"
     },
     "ev3.whenBrightnessLessThan": {
@@ -144,7 +144,7 @@
         "description": "when value measured by brightness sensor is less than some value"
     },
     "ev3.whenButtonPressed": {
-        "message": "when button [PORT] pressed",
+        "message": "su bitoŋ bi [PORT] bësoo",
         "description": "when a button connected to a port is pressed"
     },
     "ev3.whenDistanceLessThan": {
@@ -308,7 +308,7 @@
         "description": "label for shaken gesture in gesture picker for micro:bit extension"
     },
     "microbit.isButtonPressed": {
-        "message": "[BTN] button pressed?",
+        "message": "[BTN] bitoŋ bi bësoo ?",
         "description": "is the selected button on the micro:bit pressed?"
     },
     "microbit.isTilted": {
@@ -560,15 +560,15 @@
         "description": "set tempo (speed) for notes, drums, and rests played"
     },
     "pen.categoryName": {
-        "message": "Pen",
+        "message": "Xalima",
         "description": "Label for the pen extension category"
     },
     "pen.changeColorParam": {
-        "message": "change pen [COLOR_PARAM] by [VALUE]",
+        "message": "soppi xalima  [COLOR_PARAM] muy [VALUE]",
         "description": "change the state of a pen color parameter"
     },
     "pen.changeHue": {
-        "message": "change pen color by [HUE]",
+        "message": "soppi wirgo xalima gi muy [HUE]",
         "description": "legacy pen blocks - change pen color"
     },
     "pen.changeShade": {
@@ -596,7 +596,7 @@
         "description": "label for saturation element in color picker for pen extension"
     },
     "pen.colorMenu.transparency": {
-        "message": "transparency",
+        "message": "yaraaxaay",
         "description": "label for transparency element in color picker for pen extension"
     },
     "pen.penDown": {
@@ -624,7 +624,7 @@
         "description": "legacy pen blocks - set pen shade"
     },
     "pen.setSize": {
-        "message": "set pen size to [SIZE]",
+        "message": "def rëyaayu xalima gi ŋuy [SIZE]",
         "description": "set the diameter of a trail left by a sprite"
     },
     "pen.stamp": {
@@ -652,7 +652,7 @@
         "description": "Event that triggers when the text entered on the block is recognized by the speech recognition system."
     },
     "text2speech.alto": {
-        "message": "alto",
+        "message": "Nék",
         "description": "Name for a voice with ambiguous gender."
     },
     "text2speech.categoryName": {
@@ -792,7 +792,7 @@
         "description": "label for motor B element in motor menu for LEGO WeDo 2 extension"
     },
     "wedo2.motorId.default": {
-        "message": "motor",
+        "message": "motëër",
         "description": "label for motor element in motor menu for LEGO WeDo 2 extension"
     },
     "wedo2.motorOff": {
@@ -812,7 +812,7 @@
         "description": "play a certain note for some time"
     },
     "wedo2.setLightHue": {
-        "message": "set light color to [HUE]",
+        "message": "def wirgo wu leer wi  [HUE]",
         "description": "set the LED color"
     },
     "wedo2.setMotorDirection": {
@@ -844,11 +844,11 @@
         "description": "label for up element in tilt direction menu for LEGO WeDo 2 extension"
     },
     "wedo2.whenDistance": {
-        "message": "when distance [OP] [REFERENCE]",
+        "message": "su soriwaay bi [OP] [REFERENCE]",
         "description": "check for when distance is < or > than reference"
     },
     "wedo2.whenTilted": {
-        "message": "when tilted [TILT_DIRECTION_ANY]",
+        "message": "su tuddee [TILT_DIRECTION_ANY]",
         "description": "check when tilted in a certain direction"
     }
 }
